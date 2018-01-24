@@ -5,6 +5,8 @@ categories:
 tags: 
 ---
 
-Questo blog (parola che mi suscita gastrite non so perché) è ancora vuoto da un paio di settimane che l'ho installato... non volevo provocarvi troppa ansia, cosi` come "prima pagina" ci tenevo a lasciarvi un messaggio: **[DON'T PANIC](http://en.wikiquote.org/wiki/Wikiquote:Quote_of_the_day/May_1%2C_2005)**
+Questo blog (parola che mi suscita gastrite non so perché) è ancora vuoto da un paio di settimane che l'ho installato... non volevo provocarvi troppa ansia, così come "prima pagina" ci tenevo a lasciarvi un messaggio: 
+
+**[DON'T PANIC](http://en.wikiquote.org/wiki/Wikiquote:Quote_of_the_day/May_1%2C_2005)**
 
 
