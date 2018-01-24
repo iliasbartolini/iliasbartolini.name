@@ -1,0 +1,11 @@
+main:
+  - title: "Tags"
+    url: /tags/
+  - title: "Categories"
+    url: /categories/
+  - title: "Archive"
+    url: /archive/
+  - title: "About me"
+    url: /about/
+  - title: "Contact"
+    url: /contact/
