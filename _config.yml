@@ -39,6 +39,18 @@ comments:
 
 search: true
 
+author:
+  name: "Ilias Bartolini"
+  bio: "Soit gentil at tiens courage"
+  avatar: "/assets/images/ilias-bartolini-avatar.jpg"
+  twitter: "iliasbartolini"
+  facebook: "iliasbartolini"
+  lastfm: brain79
+  flickr: iliasbartolini
+  linkedin: iliasbartolini
+  github: iliasbartolini
+  keybase: "iliasbartolini"
+
 twitter:
   username: "iliasbartolini"
 

@@ -1,7 +1,6 @@
 ---
 title: About me
 permalink: /about/
-author: Ilias Bartolini
 ---
 
 
