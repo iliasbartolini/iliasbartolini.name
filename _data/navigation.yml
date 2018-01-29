@@ -1,11 +1,11 @@
 main:
-  - title: "Tags"
-    url: /tags/
-  - title: "Categories"
-    url: /categories/
+  # - title: "Tags" #TODO: manages tags
+  #   url: /tags/
+  # - title: "Categories"
+  #   url: /categories/
   - title: "Archive"
     url: /archive/
   - title: "About me"
     url: /about/
-  - title: "Contact"
+  - title: "Contact me"
     url: /contact/

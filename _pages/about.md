@@ -1,6 +1,7 @@
 ---
 title: About me
 permalink: /about/
+author: Ilias Bartolini
 ---
 
 
@@ -43,4 +44,3 @@ I feel very limited in having an impact when working as an individual and I’m 
 How can we change the world and help each other with limited structures of power?
 
 Check my [contact details](/contact/) and write me if you want to help in this.
-

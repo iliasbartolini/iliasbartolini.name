@@ -14,24 +14,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: en-GB
-title: Ilias Bartolini
+title: Ilias Bartolini's home #TODO: better title
+title_separator: '-'
 description: >- # this means to ignore newlines until "baseurl:"
   This is Ilias Bartolini's blog
   Personal stories and information on technology and social justice
+baseurl: "" # the subpath of your site, e.g. /blog
 name: Ilias Bartolini
 email: ilias.bartolini@gmail.com
 ##copyright: 'Licensed under <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br/><a class="remove-external-link-icon"  rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img style="display: inline; margin: 0.2rem; border-width:0" alt="Creative Commons Licence" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>'
 
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://iliasbartolini.name" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "iliasbartolini/iliasbartolini.name"
 
 # Build settings
 markdown: kramdown
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: mint
-
-title_separator: "|"
+minimal_mistakes_skin: dark
 
 comments:
   provider: "disqus"
@@ -40,11 +39,13 @@ comments:
 
 search: true
 
-#twitter:
-#  username: "iliasbartolini"
+twitter:
+  username: "iliasbartolini"
 
 ####Open Graph image
 #og_image: /assets/images/site-logo.png
+
+#teaser: /assets/images/header.jpg
 
 social:
   name: Ilias Bartolini
@@ -58,8 +59,6 @@ analytics:
   google:
     tracking_id: "UA-28181963-2"
 
-excerpt_separator: <!--more-->
-
 defaults:
   # _posts
   - scope:
@@ -69,6 +68,10 @@ defaults:
       layout: single
       comments: true
       read_time: true
+      author_profile: false
+      author: Ilias Bartolini
+      share: true
+      related: true
   # _pages
   - scope:
       path: ""
@@ -78,6 +81,7 @@ defaults:
       comments: false
       read_time: false
       author_profile: false
+      author: Ilias Bartolini
 
 category_archive:
   type: jekyll-archives

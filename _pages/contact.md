@@ -2,6 +2,7 @@
 title: Contact me
 permalink: /contact/
 author_profile: true
+author: Ilias Bartolini
 ---
 
 **e-mail:** ilias.bartolini@gmail.com  
