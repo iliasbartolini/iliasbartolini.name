@@ -23,7 +23,7 @@ You don't always have to follow the law to do the ethically right choice. I beli
 Now, some of you can find this video inspiring or easy to empathise with. If this video helps moving your ass from your chair out of social media, please do it!  
 There are many people helping in Calais and many more are needed. If you're one of those currently living in France or Britain please seriously join or support one of the organizations that are bringing solidarity.
 
-[![You cannot hold someone in the mud without losing ground - Calais Refugee Camp](https://farm6.staticflickr.com/5624/21341509076_6fa94d6326_m_d.jpg)](https://www.flickr.com/photos/iliasbartolini/21341509076/player/)
+[![You cannot hold someone in the mud without losing ground - Calais Refugee Camp](/assets/images/posts_2016_calais_refugee_camp.jpg)](https://www.flickr.com/photos/iliasbartolini/21341509076/player/)
 
 PS.  
 If you cannot help directly or in first person send your donations, your old winter clothes or an old pair of shoes. But please, also remember that this video follows one of the uncouncious motives of the "western white saviour" trying to help those "helpless refugees kids". I hope that one day the humans that are now living in the camp will come and use that old pair of shoes you donated to kick our own asses. Especially the ones of the people who have been waiting, sitting here and ignoring this injustice for years.

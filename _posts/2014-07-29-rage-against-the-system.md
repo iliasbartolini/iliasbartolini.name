@@ -7,9 +7,10 @@ tags:
 
 There are moments in the last couple of years that are recurring more frequently.
 
-[![Image picture of <a href=](https://farm3.staticflickr.com/2922/14579020668_e6c9dc236e_m_d.jpg) ](http://www.privatephotoreview.com/2008/09/42-social-issues/)
-
 Are moments of **rage**.
+
+[![Image picture of <a href=](/assets/images/posts_2014_private_journal_social_issues.jpg)](http://www.privatephotoreview.com/2008/09/42-social-issues/)  
+<small>Image picture of <a href="http://www.privatephotoreview.com">PRIVATE Photo Review</a> cover of <a href="http://www.privatephotoreview.com/2008/09/42-social-issues/">#42</a> on Social Issues<br> Photo by John Lambrichts</small>
 
 I'm trying to write this down so that I can understand it better.
 
@@ -45,5 +46,3 @@ Most of us, privileged, keep following the rules of this system.
  **We need to come together, organise, explain and support each other against the threats in this social system.**
 
  We need to come together as a new system to defeat the system.
-
- <small>Image picture of <a href="http://www.privatephotoreview.com">PRIVATE Photo Review</a> cover of <a href="http://www.privatephotoreview.com/2008/09/42-social-issues/">#42</a> on Social Issues<br> Photo by John Lambrichts</small>

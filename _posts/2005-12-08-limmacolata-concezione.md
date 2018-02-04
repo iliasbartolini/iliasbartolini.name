@@ -1,11 +1,11 @@
 ---
 title: "L'immacolata concezione"
 date: 2005-12-08 04:06:55 +0100
-categories: 
-tags: 
+categories:
+tags:
 ---
 
-Ho da poco terminato di [leggere](http://zatoichi.homeip.net/~brain/wiki/index.php/Books#Narattiva) un libro molto bello di [George Orwell](http://it.wikipedia.org/wiki/George_Orwell) intitolato [1984](http://it.wikipedia.org/wiki/1984_%28libro%29) ...lettura casualmente ispirata dal nome di un movimento riguardante i diritti della società dell'informazione a cui ho iniziato ad interessarmi [www.no1984.org](http://www.no1984.org/) ( guardate il [filmato](http://www.no1984.org/Trusted_Computing_movie)!). 
+Ho da poco terminato di [leggere](https://www.goodreads.com/review/list/76116323?sort=date_read) un libro molto bello di [George Orwell](http://it.wikipedia.org/wiki/George_Orwell) intitolato [1984](http://it.wikipedia.org/wiki/1984_%28libro%29) ...lettura casualmente ispirata dal nome di un movimento riguardante i diritti della società dell'informazione a cui ho iniziato ad interessarmi [www.no1984.org](http://www.no1984.org/) ( guardate il [filmato](http://www.no1984.org/Trusted_Computing_movie)!). 
 
 Dalle pagine di questo libro è tratto il seguente passo:
 
@@ -19,6 +19,6 @@ Dalle pagine di questo libro è tratto il seguente passo:
 > Nell'universo [...] , ovunque, si ergeva quella stessa figura, solida ed inespugnabile, resa mostruosa dalla fatica e dai parti, che penava dalla nascita fino alla morte, eppure continuava a cantare. Un giorno quei poderosi lombi avrebbero dato vita a esseri umani consapevoli di sè. Il futuro apparteneva a loro.
 
 Tornando al titolo del messaggio di oggi... erroneamente molti (pure io un attimo fa) ritengono che l'espressione [Immacolata Concezione](http://it.wikipedia.org/wiki/Immacolata_Concezione) si riferisca al fatto che Maria ha concepito Suo figlio Gesù senza peccato.  
-In realtà questo dogma cattolico sancisce come la Vergine Maria sia stata preservata immune dal peccato originale fin dal primo istante del Suo (suo di lei, non di Gesù) concepimento. 
+In realtà questo dogma cattolico sancisce come la Vergine Maria sia stata preservata immune dal peccato originale fin dal primo istante del Suo (suo di lei, non di Gesù) concepimento.
 
 Oggi in ogni caso per fare un po' di bene non è necessario essere beati. Tramite il sito dell'**[UNICEF](http://www.unicef.it)** potete donare salute, educazione e salvaguardia dei diritti fondamentali non a solo uno, ma milioni di bambini. Ci penserà il propagarsi attraverso la rete di un'_immacolata onda elettromagnetica_ a compiere il miracolo di donare un futuro a qualcuno.

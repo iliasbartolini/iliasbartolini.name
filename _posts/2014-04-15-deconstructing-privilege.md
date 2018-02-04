@@ -29,7 +29,8 @@ There are challenges and difficulties that probably I will never understand. Whe
 Deconstructing our privilege is not a trivial journey. Many of us are not even aware of it and sometimes we keep denying it.  
  I never thought of how machist I was until I moved to a different country and after some feminist friends explained me the additional difficulties faced on the other gender side.
 
- ![](https://farm5.staticflickr.com/4126/5144060124_3a8c562358_m.jpg) <small>CC-BY image courtesy of <a src="https://secure.flickr.com/photos/craftivist-collective/5144060124/">craftivist-collective</a></small>
+ ![](/assets/images/posts_2014_in_this_all_togheter.jpg)  
+ <small>CC-BY image courtesy of <a src="https://secure.flickr.com/photos/craftivist-collective/5144060124/">craftivist-collective</a></small>
 
 I've been working with a black lesbian girl who grew up from a low class family of a global South country where access education is not a given thing. If I ended up in a more privileged position I'm sure it's not because of any of my merits (meritocracy is itself another concept that deserves to be deconstructed, but this deserves another article...) but because I'm an educated white, middle class, heterosexual, man from the global North.
 

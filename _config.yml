@@ -30,7 +30,7 @@ repository: "iliasbartolini/iliasbartolini.name"
 # Build settings
 markdown: kramdown
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: aqua
 
 comments:
   provider: "disqus"

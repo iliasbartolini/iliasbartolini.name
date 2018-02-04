@@ -1,15 +1,16 @@
 ---
 title: "A plea for Openness in knowledge and information revolution"
 date: 2011-12-16 10:58:17 +0100
-categories: 
-tags: 
+categories:
+tags:
 ---
-
-[!["OPEN" courtesy of Monica's Dad](/~brain/content/OPEN.jpg)](http://www.flickr.com/photos/virtualsugar/316200555/) 
 
 About 12 month ago I moved to London. During this experience I've met lot of new people and I've been in touch with many new ideas and many new perspectives.  
 One of those interesting contacts has been with the [School of Open](http://p2pu.org/en/schools/school-of-open/) at Mozilla Foundation Conference that inspired in asking myself: _"What does Open mean?"_ in a broader sense.  
-I decided drop here what I humbly learned in this long journey started 10 years ago when I joined the communities of Free Software. 
+I decided drop here what I humbly learned in this long journey started 10 years ago when I joined the communities of Free Software.
+
+[![photo: "OPEN" sign, by John Martinez Pavliga](/assets/images/posts_2011_open.jpg)](http://www.flickr.com/photos/virtualsugar/316200555/)  
+<small>CC-BY image courtesy of <a src="http://www.flickr.com/photos/virtualsugar/316200555/">John Martinez Pavliga</a></small>
 
 In the last 30 years we have seen the growing role of **knowledge and information** in technology, economy and society: this is the knowledge and information revolution.  
 Previous information revolutions have been shaped by the diffusion of Gutenberg's work on the printing press and later by Marconi's radio and the following television.  
@@ -50,15 +51,12 @@ Many of us initially thought that Openness was only about licences, copyrights a
 
 Today not sharing an information is the equivalent of killing its growth: being passive is becoming equivalent to opposing to it. Is up to us to disagree or agree, share or influencing your peers with knowledge that we find important (or not).  
 Ethics and moral responsibility is today in the hands of each of us more than has been in any point in the past.  
- 
 
 > "Why should you care? Because the Web is yours."  
 > (Tim Barnes Lee)
 
 Knowledge and ideas are the oil and gas for the future generations. Please take care of them, keep them free and don't lock them to help the world express its full power and potential.  
 Is a new **challenge** for politics and our education system to understand the importance of this new resource and safeguard it.  
- 
 
 > "Your obligation is that of active participation. You should not act as knowledge absorbing sponges but as whetstone on which we can all sharpen our wits"  
 > (Edsger W. Dijkstra)
-

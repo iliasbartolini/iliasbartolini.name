@@ -32,12 +32,13 @@ Today we live in a culture of shortcuts, of everything "here and now" that bring
 
 Part of existentialism in not about having answer to every situation, is also about realizing that we don't have certainty of many things, but keep doing our choices in a responsible way. Existentialism need to support uncertainty but with a continuous pursue of authenticity and accepting the current situation.
 
-[![Image picture of a conversation between Simone de Beauvoir Sartre and Che Guevara in Cuba 1960](/~brain/content/Beauvoir_Sartre_CheGuevara_1960_Cuba.jpg) ](http://en.wikipedia.org/wiki/File:Beauvoir_Sartre_-_Che_Guevara_-1960_-_Cuba.jpg)
+[![Image picture of a conversation between Simone de Beauvoir Sartre and Che Guevara in Cuba 1960](/assets/images/posts_2014_Beauvoir_Sartre_CheGuevara_1960_Cuba.jpg) ](http://en.wikipedia.org/wiki/File:Beauvoir_Sartre_-_Che_Guevara_-1960_-_Cuba.jpg)
 
-Jose' Mujica, philosopher, former guerrilla fighter and president of Uruguay said in an interview that for him happiness is _ **"vivir de acuerdo como se piensa"** _ (to live in accordance to how you think). In this perspective to me means to start acting in a way follows our informed choices or for Sartre means to pursue **authenticity**. Authentic existence involves the idea that one has to "create oneself" and then live in accordance with this self.  
+Jose' Mujica, philosopher, former guerrilla fighter and president of Uruguay said in an interview that for him happiness is _**"vivir de acuerdo como se piensa"**_ (to live in accordance to how you think). In this perspective to me means to start acting in a way follows our informed choices or for Sartre means to pursue **authenticity**. Authentic existence involves the idea that one has to "create oneself" and then live in accordance with this self.  
 Authenticity is not only a personal matter, but it also involves our authenticity in relation to others. One of the ways the individuals avoid responsibility and truth is by keeping themselves in a state of ignorance motivated by fear and anxiety to face reality.
 
-At the core of our freedom is the freedom of choice; and the consequences of choices are our actions. Actions are therefore the result of our human existence. Sartre wrote _ **"To be is to do"** _ to summarise the importance of actions in existentialism.
+At the core of our freedom is the freedom of choice; and the consequences of choices are our actions. Actions are therefore the result of our human existence.  
+Sartre wrote _**"To be is to do"**_ to summarise the importance of actions in existentialism.
 
 It's part of your choice if we want to learn about existentialism, decide if you want to become an existentialist or ignore it.
 

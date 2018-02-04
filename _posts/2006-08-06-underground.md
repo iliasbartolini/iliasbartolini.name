@@ -1,17 +1,17 @@
 ---
 title: "UNDERGROUND"
 date: 2006-08-06 23:34:49 +0100
-categories: 
-tags: 
+categories:
+tags:
 ---
 
-![metropolitana spaziale](http://zatoichi.homeip.net/~brain/underground_web.jpg)
- 
+![metropolitana spaziale](/assets/images/posts_2006_underground_web.jpg)
+
 Ammetto di essere tra coloro che non sono in grado di programmare un vacanza con decente anticipo e si riducono all'ultimo momento (...non ho fissato ferie estive).
 
 Però possiamo restare comunque ottimisti ...l'immagine un po' surreale è tratta da un articolo recentemente pubblicato su _Le Scienze_ che parla sul come viaggiare nello spazio a basso costo :)
 
-Citando l'articolo... 
+Citando l'articolo...
 
 > I fan di Douglas Adams, autore della guida galattica per gli autostoppisti, possono essere ottimisti: anche se richiederà tempi molto lunghi, fare l'autostop nella galassia potrebbe essere una realtà
 

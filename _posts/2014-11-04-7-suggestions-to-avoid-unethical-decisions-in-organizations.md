@@ -17,7 +17,10 @@ In the last period of time I started reading a studying about ethics and social 
 
  The most common perception is that “unethical decisions” are usually taken by “bad apples”. When we look ourselves in the mirror every morning we consider ourselves as very rational beings regarding our ethical behaviour: **this belief is false**.
 
- When we take decisions situational, organizational and institutional factors can push us towards unethical decisions: this is known in social psychology as " **the power of situation**".[![Barca Elena in a Frame](https://farm3.staticflickr.com/2817/9354079756_f89878ff63_m_d.jpg)](https://www.flickr.com/photos/iliasbartolini/9354079756/player/)  
+ When we take decisions situational, organizational and institutional factors can push us towards unethical decisions: this is known in social psychology as " **the power of situation**".  
+
+ [![Barca Elena in a Frame](/assets/images/posts_2014_barca_elena.jpg)](https://www.flickr.com/photos/iliasbartolini/9354079756/player/)  
+
 The worst part is that we might act unethically and be completely unaware of our bad decisions until an external perspective helps us recognise the implicit **frames** that surround our point of view. [Psychological frames](https://en.wikipedia.org/wiki/Framing_effect_%28psychology%29) are like real frames, they help us focus on one part of the situation but hide what is outside of the frame: this is effect is called " **ethical blindness**".  
 You too, can potentially be the protagonist of an unethical decision being in totally good faith, with good values and good intentions.
 

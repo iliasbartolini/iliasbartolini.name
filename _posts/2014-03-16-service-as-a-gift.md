@@ -32,9 +32,6 @@ From Wikipedia:
 
 "Service as a gift" is about encouraging and understanding the legal implications of building services with licenses similar to AGPL or providing a Diaspora service implementation.
 
-![gift](http://farm8.staticflickr.com/7010/6510934443_8bd2942b79_n.jpg)  
-<small>CC-BY image courtesy of <a src="https://secure.flickr.com/photos/72153088@N08/6510934443/">asenat29</a></small>
-
 One of the ideas I heard from Jim Yong Kim, despite being president of the World Bank organization, during the "social good summit" is that social change often needs the emergence of a social movement of people that start participating actively in this challenge.  
 "Service as a gift" is the idea of starting a new movement and a network of people and business that want to support this idea.  
 
