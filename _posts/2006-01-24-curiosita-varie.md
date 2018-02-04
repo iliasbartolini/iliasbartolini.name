@@ -17,7 +17,7 @@ Prima di sistemare tutto ho dato un'occhiata alla voce [Feng Shui](http://en.wik
 
 [Wikipedia](http://it.wikipedia.org/) mi lascia ogni volta più stupefatto... ormai la uso per le mie ricerche, per organizzarmi le vacanze, e tra un po' pure per trovare informazioni per chi votare alle prossime [e](http://en.wikipedia.org/wiki/Berlusconi)-[le](http://it.wikipedia.org/wiki/Berlusconi)-[zio](http://en.wikipedia.org/wiki/Prodi)-[ni](http://it.wikipedia.org/wiki/Prodi):
 
-...oggi [spiff](http://www.sofarsogeek.org/blog/) mi ha fatto pure notare che nella homepage della [versione Italiana](http://it.wikipedia.org/) compare la frase: [NON FATEVI PRENDERE DAL PANICO"](http://it.wikipedia.org/wiki/Guida_galattica_per_gli_autostoppisti_%28serie%29) come nel [primo post](http://zatoichi.homeip.net/~brain/?p=4) del mio blog.
+...oggi [spiff](http://www.sofarsogeek.org/blog/) mi ha fatto pure notare che nella homepage della [versione Italiana](http://it.wikipedia.org/) compare la frase: [NON FATEVI PRENDERE DAL PANICO"](http://it.wikipedia.org/wiki/Guida_galattica_per_gli_autostoppisti_%28serie%29) come nel [primo post](/2005/06/09/dont-panic) del mio blog.
 
 Fate anche voi una [donazione al progetto](http://wikimediafoundation.org/wiki/Fundraising) wikipedia... ma soprattutto contribuite ai suoi articoli!
 

@@ -22,6 +22,6 @@ L'associazione RaccattaRAEE ha lo scopo di intercettare computer ed altre appare
 
 Il sito dell'associazione non è aggiornato con le ultime attività del gruppo, ma se siete interessati a partecipare o a salvare un PC dal pattume non esitate a contattare i volontari di RaccattaRAEE. [http://www.raccattaraee.net/](http://www.raccattaraee.net/)
 
-[![Riproduzione del quadro i girasoli di van gogh fatto con componenti di PC riciclati](/assets/images/posts_2009_girasoli.jpg)](/~brain/content/girasoli.jpg)
+![Riproduzione del quadro i girasoli di van gogh fatto con componenti di PC riciclati](/assets/images/posts_2009_girasoli.jpg)
 
 UPDATE: Tra i Chuck Norris Facts ne ho trovato uno davvero in tema: "Il cestino del PC di Chuck Norris fa la raccolta differenziata" :)

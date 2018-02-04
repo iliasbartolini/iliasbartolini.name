@@ -20,14 +20,14 @@ Riguardo ai punti di vista che cambiano c'è un'altra notizia curiosa che mi è 
 
 Riguarda il famoso "[castagno](http://en.wikipedia.org/wiki/Anne_Frank_Tree)" che la piccola Anne Frank scorgeva dalla finestra del suo nascondiglio.
 
-![Vecchia foto del castagno visto dalla finestra di Anne Frank](/assets/images/posts_2007_castagno.jpg)
+![Vecchia foto del castagno visto dalla finestra di Anne Frank](/assets/images/posts_2007_castagno1.jpg)
 
 > Il nostro castagno è in piena fioritura dai rami più bassi alla cima, è carico di foglie e molto più bello dell'anno scorso
 > (Anne Frank, 13 maggio 1944)
 
 Da qualche anno questo albero sta morendo a causa di un inquinamento del terreno dovuto a carburante domestico infiltrato nel suolo ...e rischia di dover **essere abbattuto**!! :( :(
 
-![Il castagno spoglio e secco come appare oggi](/~brain/content/Castagno2.jpg)
+![Il castagno spoglio e secco come appare oggi](/assets/images/posts_2007_castagno2.jpg)
 
 [http://www.spiegel.de/international/0,1518,448855,00.html](http://www.spiegel.de/international/0,1518,448855,00.html)   
 [http://www.annefrank.org/content.asp?pid=445&lid=2](http://www.annefrank.org/content.asp?pid=445&lid=2)
