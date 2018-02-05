@@ -130,6 +130,7 @@ exclude:
   - _site/
   - .idea/
   - README.md
+  - .git/
 
 compress_html:
   clippings: all
