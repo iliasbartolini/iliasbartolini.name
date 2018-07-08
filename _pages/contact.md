@@ -1,8 +1,8 @@
 ---
 title: Contact me
 permalink: /contact/
+date: 2018-07-08 01:56:36 +0100
 layout: about
-author_profile: true
 order: 3
 ---
 
