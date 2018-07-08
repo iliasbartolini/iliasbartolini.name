@@ -1,8 +1,10 @@
 ---
 title: "La morte è un processo rettilineo"
 date: 2005-09-26 16:19:45 +0100
+layout: post
+comments: true
 categories: 
-tags: 
+tags: archive
 ---
 
 "La morte è un processo rettilineo" è la frase su cui è incentrato uno dei libri di Daniel Pennac della serie che ha come protagonisti i componenti della tribù Malaussène e il suo capo famiglia [Benjamin](http://it.wikipedia.org/wiki/Benjamin_Malauss%C3%A8ne) ...professione capro espiatorio.

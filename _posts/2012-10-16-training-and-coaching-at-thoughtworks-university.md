@@ -1,8 +1,10 @@
 ---
 title: "Training and coaching at ThoughtWorks University"
 date: 2012-10-16 01:56:36 +0100
+layout: post
+comments: true
 categories:
-tags:
+tags: archive
 ---
 
 [![photo: TWU students, by Ilias Bartolini](/assets/images/posts_2012_TWU_students.jpg)](http://www.flickr.com/photos/iliasbartolini/7557437886/lightbox/)

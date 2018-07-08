@@ -1,8 +1,10 @@
 ---
 title: "Paradiso: società a responsabilità limitata"
 date: 2005-06-22 16:30:29 +0100
+layout: post
+comments: true
 categories:
-tags:
+tags: archive
 ---
 
 Oggi sono andato a pranzare con Matteo (sempre in ritardo) in centro e sotto al suo ufficio ho trovato questo buffo campanello.

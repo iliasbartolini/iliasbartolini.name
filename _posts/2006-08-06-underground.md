@@ -1,8 +1,10 @@
 ---
 title: "UNDERGROUND"
 date: 2006-08-06 23:34:49 +0100
+layout: post
+comments: true
 categories:
-tags:
+tags: archive
 ---
 
 ![metropolitana spaziale](/assets/images/posts_2006_underground_web.jpg)

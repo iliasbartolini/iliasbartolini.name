@@ -1,11 +1,13 @@
 ---
 title: "L'immacolata concezione"
 date: 2005-12-08 04:06:55 +0100
+layout: post
+comments: true
 categories:
-tags:
+tags: archive
 ---
 
-Ho da poco terminato di [leggere](https://www.goodreads.com/review/list/76116323?sort=date_read) un libro molto bello di [George Orwell](http://it.wikipedia.org/wiki/George_Orwell) intitolato [1984](http://it.wikipedia.org/wiki/1984_%28libro%29) ...lettura casualmente ispirata dal nome di un movimento riguardante i diritti della società dell'informazione a cui ho iniziato ad interessarmi [www.no1984.org](http://www.no1984.org/) ( guardate il [filmato](http://www.no1984.org/Trusted_Computing_movie)!). 
+Ho da poco terminato di [leggere](https://www.goodreads.com/review/list/76116323?sort=date_read) un libro molto bello di [George Orwell](http://it.wikipedia.org/wiki/George_Orwell) intitolato [1984](http://it.wikipedia.org/wiki/1984_%28libro%29) ...lettura casualmente ispirata dal nome di un movimento riguardante i diritti della società dell'informazione a cui ho iniziato ad interessarmi [www.no1984.org](http://www.no1984.org/) ( guardate il [filmato](http://www.no1984.org/Trusted_Computing_movie)!).
 
 Dalle pagine di questo libro è tratto il seguente passo:
 

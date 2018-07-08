@@ -1,8 +1,10 @@
 ---
 title: "A feedback based personal review: why? (part1)"
 date: 2012-01-30 05:43:07 +0100
+layout: post
+comments: true
 categories:
-tags:
+tags: archive
 ---
 
 [![photo: Choice, past, by Ilias Bartolini](/assets/images/posts_2012_choice_past.jpg)](http://www.flickr.com/photos/iliasbartolini/6292107545/lightbox)

@@ -1,8 +1,10 @@
 ---
 title: "Yo soy un fonero!"
 date: 2006-05-26 00:53:10 +0100
+layout: post
+comments: true
 categories:
-tags:
+tags: archive
 ---
 
 [Yo soy un fonero!]  <small>(image missing)</small>

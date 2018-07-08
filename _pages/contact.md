@@ -1,7 +1,9 @@
 ---
 title: Contact me
 permalink: /contact/
+layout: about
 author_profile: true
+order: 3
 ---
 
 **e-mail:** ilias.bartolini@gmail.com  

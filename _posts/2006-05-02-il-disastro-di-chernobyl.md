@@ -1,8 +1,10 @@
 ---
 title: "Il disastro di Chernobyl"
 date: 2006-05-02 22:31:10 +0100
+layout: post
+comments: true
 categories: 
-tags: 
+tags: archive
 ---
 
 Il **26 aprile 1986** , poco più di 20 anni fa (mi sono preso qualche giorno di approfondimento prima di scrivervi), l'unita numero 4 della centale di **Chernobyl** provocò il disastro che viene da molti ricordato come una delle più grandi tragedie del secolo scorso.
@@ -25,13 +27,13 @@ Le immagini tanto raccapriccianti di bambini, piante ed animali deformi mostrate
 
 Un'ultima emergenza è costituita dalla salute mentale delle persone che sono spesso obbligate a lasciare le proprie case e e si sono trovate ad affrontare la povertà insieme al trauma psicologico dell'incidente. Queste sono state colpite da depressione e ansia con un tasso tre volte superiore a quello medio.
 
-Questo ultimo rapporto ridimensiona molto le stime fatte dai precedenti studi... ma non dev'essere, e putroppo non sarà, un'ordine di grandezza nella misura della tragedia a dover ridurre la stupidità o cambiare le idee di chi pone giudizi "_intransigenti_". 
+Questo ultimo rapporto ridimensiona molto le stime fatte dai precedenti studi... ma non dev'essere, e putroppo non sarà, un'ordine di grandezza nella misura della tragedia a dover ridurre la stupidità o cambiare le idee di chi pone giudizi "_intransigenti_".
 
 Per chi è interessato ad approfondire, dopo tante ricerche e letture, vi consiglio come fonte di nuovo wikipedia che riassume in maniera equilibrata tutto quanto si è detto su Chernobyl... non trascurate i vari link in fondo all'articolo.  
-[http://en.wikipedia.org/wiki/Chernobyl\_disaster](http://en.wikipedia.org/wiki/Chernobyl_disaster) 
+[http://en.wikipedia.org/wiki/Chernobyl\_disaster](http://en.wikipedia.org/wiki/Chernobyl_disaster)
 
 Beppe Grillo chiama "nostalgici" coloro che non si rassegnano a sostenere l'utilizzo di fonti di energia nucleari.  
-[http://www.beppegrillo.it/2006/04/i\_nostalgici\_di.html](http://www.beppegrillo.it/2006/04/i_nostalgici_di.html) 
+[http://www.beppegrillo.it/2006/04/i\_nostalgici\_di.html](http://www.beppegrillo.it/2006/04/i_nostalgici_di.html)
 
 Nel frattempo nei laboratori di ricerca (naturalmente non Italiani) si realizzano prototipi di reattori a "neutroni veloci" che utilizzano un processo meno pericoloso e sono in grado di estrarre dalle scorie prodotte dagli attuali reattori una quantità di energia **15 volte** superiore a quella già estratta nel primo passaggio.
 

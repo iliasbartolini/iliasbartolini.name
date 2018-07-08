@@ -1,8 +1,10 @@
 ---
 title: "Deconstructing privilege"
 date: 2014-04-15 06:51:31 +0100
+layout: post
+comments: true
 categories:
-tags:
+tags: archive
 ---
 
 There was a day during the last year when I was in Nairobi and I have been harassed by two policemen for the colour of my skin.  

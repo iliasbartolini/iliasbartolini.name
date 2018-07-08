@@ -1,8 +1,10 @@
 ---
 title: "A pochi giorni dal voto"
 date: 2006-04-06 21:02:05 +0100
+layout: post
+comments: true
 categories:
-tags:
+tags: archive
 ---
 
 Nel dialetto romagnolo si è soliti utilizzare l'equivalente del termine "votazioni" al posto di "elezioni". Purtroppo è triste constatare come con il passare degli anni assuma sempre una maggiore centralità "l'elezione" e non più il "voto".
@@ -21,7 +23,7 @@ Naturalmente su wikipedia potete trovare una piccola introduzione sulle vicissit
 
 Vi lascio con le parole conclusive di Chris, il DJ galeotto e voce radiofonica della radio di Cicely:
 
->Oliver Wendell Holmes disse: "La costituzione è un esperimento così com'è la vita" 
+>Oliver Wendell Holmes disse: "La costituzione è un esperimento così com'è la vita"
 >
 >Restando in argomento le ultime parole della notte sono di Thomas Geffeson, terzo presidente dei nostri Stati Uniti, ...ascoltate e riflettete:  
 > "A volte si dice che non si può affidare ad un uomo il governo di se stesso, può allora questuomo essere governato da altri o abbiamo travato degli angeli che sotto le spoglie di Re posso governare, lasciamo che sia la storia a rispondere."

@@ -1,8 +1,10 @@
 ---
 title: "Service as a gift"
 date: 2014-03-16 17:54:45 +0100
+layout: post
+comments: true
 categories:
-tags:
+tags: archive
 ---
 
 In the recent past we've been hit by the narrative: _"If you're not paying for it, you're product"_

@@ -1,8 +1,10 @@
 ---
 title: "RaccattaRAEE !"
 date: 2008-05-05 23:07:01 +0100
+layout: post
+comments: true
 categories:
-tags:
+tags: archive
 ---
 
 Oggi ho lasciato uno dei miei vecchi PC in buone mani...

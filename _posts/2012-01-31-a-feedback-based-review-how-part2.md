@@ -1,8 +1,10 @@
 ---
 title: "A feedback based personal review: how? (part2)"
 date: 2012-01-31 02:40:12 +0100
+layout: post
+comments: true
 categories:
-tags:
+tags: archive
 ---
 
 In the [part 1](/2012/01/30/a-feedback-based-review-why-part1/) of this series I explained **"why"** you should do a personal review and its benefits. In this post I will explain **"how"** I did it.

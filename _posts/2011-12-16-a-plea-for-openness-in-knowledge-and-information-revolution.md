@@ -1,8 +1,10 @@
 ---
 title: "A plea for Openness in knowledge and information revolution"
 date: 2011-12-16 10:58:17 +0100
+layout: post
+comments: true
 categories:
-tags:
+tags: archive
 ---
 
 About 12 month ago I moved to London. During this experience I've met lot of new people and I've been in touch with many new ideas and many new perspectives.  

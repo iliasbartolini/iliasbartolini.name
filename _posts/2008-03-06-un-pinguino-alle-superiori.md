@@ -1,15 +1,17 @@
 ---
 title: "Un pinguino alle superiori"
 date: 2008-03-06 02:09:27 +0100
+layout: post
+comments: true
 categories: 
-tags: 
+tags: archive
 ---
 
- ![ERLUG logo](http://erlug.linux.it/scuole/logo_n_txt.png) 
- 
-Volevo sottolineare un articolo che è comparso in seconda pagina ieri su [Punto Informatico](http://punto-informatico.it) 
+ ![ERLUG logo](http://erlug.linux.it/scuole/logo_n_txt.png)
 
-[http://punto-informatico.it/p.aspx?i=2211518](http://punto-informatico.it/p.aspx?i=2211518) 
+Volevo sottolineare un articolo che è comparso in seconda pagina ieri su [Punto Informatico](http://punto-informatico.it)
+
+[http://punto-informatico.it/p.aspx?i=2211518](http://punto-informatico.it/p.aspx?i=2211518)
 
 > Spingere i docenti ad adottare tecnologie aperte e puntare sull'adozione della distribuzione di Linux Ubuntu nelle scuole superiori, nonché far conoscere agli studenti ancora più da vicino il mondo del Pinguino e l'open source. C'è questo dietro l'ultima iniziativa di ERLUG (Emilia Romagna Linux Users Group)
 

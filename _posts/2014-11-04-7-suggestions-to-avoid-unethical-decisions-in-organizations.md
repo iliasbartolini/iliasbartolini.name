@@ -1,8 +1,10 @@
 ---
 title: "7 suggestions to avoid unethical decisions in organizations"
 date: 2014-11-04 18:50:38 +0100
+layout: post
+comments: true
 categories:
-tags:
+tags: archive
 ---
 
 In 1970 Ford released to the public a new car to compete in the market segment of the cheap small vehicles: the [Ford Pinto](http://en.wikipedia.org/wiki/Ford_Pinto#Fuel_tank_controversy).  

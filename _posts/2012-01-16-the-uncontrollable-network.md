@@ -1,8 +1,10 @@
 ---
 title: "The uncontrollable Network"
 date: 2012-01-16 03:30:40 +0100
+layout: post
+comments: true
 categories:
-tags:
+tags: archive
 ---
 
 > "The ultimate proof of our understanding of natural or technological systems is reflected in our ability to control them. Although control theory offers mathematical tools for steering engineered and natural systems towards a desired state, a framework to control complex self-organized systems is lacking"

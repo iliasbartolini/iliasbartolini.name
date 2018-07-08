@@ -1,8 +1,10 @@
 ---
 title: "Dietro l'arcobaleno"
 date: 2008-01-01 22:26:48 +0100
+layout: post
+comments: true
 categories: 
-tags: 
+tags: archive
 ---
 
 Ci sono fenomeni che ci capita di osservare nella quotidianità che ci affascinano con stupore.
@@ -12,7 +14,7 @@ Ho trovato questa bellissima lezione di [Martin Lewin](http://web.mit.edu/physic
 
 **[http://mitworld.mit.edu/video/33/](http://mitworld.mit.edu/video/33/)**
 
- 
+
 - qual è la direzione e l'angolo a cui è visibile l'arcobaleno?
 - qual è la sua sequenza di colori?
 - avete mai notato il chiarore all'interno?

@@ -1,8 +1,10 @@
 ---
 title: "Curiosità varie..."
 date: 2006-01-24 21:50:17 +0100
+layout: post
+comments: true
 categories:
-tags:
+tags: archive
 ---
 
 Freddo glaciale avvolge Bologna... quindi finalmente una scusa per starmene in casa, riappendere le mie "mensole complemetari" al muro e terminare la sistemazione dei mobili della camera da letto. Alla faccia della moda wireless ho steso 60m di cavi tra rete, alimentazione e mi è scoppiato un attacco di l'allergia alla polvere.

@@ -1,8 +1,10 @@
 ---
 title: "\"We cannot help everyone, but everyone can help someone\""
 date: 2016-01-12 01:01:13 +0100
+layout: post
+comments: true
 categories:
-tags:
+tags: archive
 ---
 
 <iframe width="480" height="270" src="https://www.youtube.com/embed/NZcF8jYss5E" frameborder="0" allowfullscreen></iframe>

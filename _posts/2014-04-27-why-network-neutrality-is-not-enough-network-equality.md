@@ -1,8 +1,10 @@
 ---
 title: "Why Network Neutrality is not enough: Network Equality"
 date: 2014-04-27 19:22:32 +0100
+layout: post
+comments: true
 categories:
-tags:
+tags: archive
 ---
 
 I've been assisting for the last few days at the debate during the preparation and development of NETMundial. A conference held in Brazil to discuss principles of Internet governance and digital rights.

@@ -1,8 +1,10 @@
 ---
 title: "ESSAP 2007: Agile Retrospectives"
 date: 2007-07-24 21:03:44 +0100
+layout: post
+comments: true
 categories:
-tags:
+tags: archive
 ---
 
 I attended at [ESSAP](http://essap.dicom.uninsubria.it/) (European Summer School on Agile Programming) a few weeks ago in Varese.  

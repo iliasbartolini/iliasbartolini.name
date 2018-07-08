@@ -1,8 +1,10 @@
 ---
 title: "Tratti di un dialogo"
 date: 2007-12-11 00:46:55 +0100
+layout: post
+comments: true
 categories:
-tags:
+tags: archive
 ---
 
 Ci sono tratti più profondi di una discussione che si ritrovano meglio con pochi segni e qualche scarabocchio.

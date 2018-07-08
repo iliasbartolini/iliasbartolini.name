@@ -1,8 +1,10 @@
 ---
 title: "ESSAP 2007: Creativity"
 date: 2007-07-25 22:44:24 +0100
+layout: post
+comments: true
 categories:
-tags:
+tags: archive
 ---
 
 I'm still working on organizing my ideas from ESSAP.  

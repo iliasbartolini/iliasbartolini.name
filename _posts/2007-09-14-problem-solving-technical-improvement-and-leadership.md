@@ -1,8 +1,10 @@
 ---
 title: "Problem Solving, Technical Improvement and Leadership"
 date: 2007-09-14 01:24:42 +0100
+layout: post
+comments: true
 categories:
-tags:
+tags: archive
 ---
 
 I just finished to fill a couple of new Mind Maps...

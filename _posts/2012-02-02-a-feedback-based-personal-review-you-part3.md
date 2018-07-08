@@ -1,8 +1,10 @@
 ---
 title: "A feedback based personal review: you! (part3)"
 date: 2012-02-02 02:58:22 +0100
+layout: post
+comments: true
 categories:
-tags:
+tags: archive
 ---
 
 In the [part 1](/2012/01/30/a-feedback-based-review-why-part1/) and [2](/2012/01/31/a-feedback-based-review-how-part2/) of this series I explained "why" and "how" you should run a personal review and its benefits. Now let's see how **you** can use all the data that we have gathered!

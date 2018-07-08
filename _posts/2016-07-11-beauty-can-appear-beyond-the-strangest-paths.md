@@ -1,8 +1,10 @@
 ---
 title: "Beauty can appear beyond the strangest paths"
 date: 2016-07-11 23:13:37 +0100
+layout: post
+comments: true
 categories:
-tags:
+tags: archive
 ---
 **Beauty can appear beyond the strangest paths**
 

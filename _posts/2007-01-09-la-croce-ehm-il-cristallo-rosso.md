@@ -1,8 +1,10 @@
 ---
 title: "La croce... ehm... Il cristallo rosso"
 date: 2007-01-09 00:40:44 +0100
+layout: post
+comments: true
 categories:
-tags:
+tags: archive
 ---
 
 Avete presente la _"Croce Rossa"_? La più grande associazione umanitaria fondata nel 1862 per la cura e il soccorso dei feriti di guerra?  

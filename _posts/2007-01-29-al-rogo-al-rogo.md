@@ -1,8 +1,10 @@
 ---
 title: "Al rogo! Al rogo!"
 date: 2007-01-29 02:31:55 +0100
+layout: post
+comments: true
 categories:
-tags:
+tags: archive
 ---
 
 ![Hitler Ritratto](/assets/images/posts_2007_al_rogo_hitler.jpg)

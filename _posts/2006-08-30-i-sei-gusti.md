@@ -1,8 +1,10 @@
 ---
 title: "I sei gusti"
 date: 2006-08-30 01:39:55 +0100
+layout: post
+comments: true
 categories:
-tags:
+tags: archive
 ---
 
 L'altro giorno ero a cena dal ristorantino cinese sotto l'ufficio con [eagleone](http://eagleone.homelinux.org/blog/) quando gli è tornata in mente la storia secondo cui il sapore di "salsa di soia" sia il 6° gusto ...ma non riuscivamo a fare l'elenco degli altri 5, ce ne mancava uno!

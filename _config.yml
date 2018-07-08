@@ -14,108 +14,138 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: en-GB
-title: Ilias Bartolini's home #TODO: better title
+title: Ilias Bartolini
 title_separator: '-'
 description: >- # this means to ignore newlines until "baseurl:"
-  This is Ilias Bartolini's blog
-  Personal stories and information on technology and social justice
+  Personal stories, technology and social justice.
 baseurl: "" # the subpath of your site, e.g. /blog
 name: Ilias Bartolini
 email: ilias.bartolini@gmail.com
-##copyright: 'Licensed under <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br/><a class="remove-external-link-icon"  rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img style="display: inline; margin: 0.2rem; border-width:0" alt="Creative Commons Licence" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>'
+copyright: '<style>.remove-external-link-icon:after { content: none !important; }</style>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br/><a class="remove-external-link-icon"  rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img style="display: inline; margin: 0.2rem; border-width:0" alt="Creative Commons Licence" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>'
 
 url: "http://iliasbartolini.name" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "iliasbartolini/iliasbartolini.name"
 
+author:
+  name: Ilias Bartolini
+  email: ilias.bartolini@gmail.com
+  picture: /assets/images/ilias-bartolini-avatar.jpg
+  social:
+    rss: http://iliasbartolini.name/feed.xml
+    twitter: iliasbartolini
+    facebook: iliasbartolini
+    lastfm: brain79
+    flickr: iliasbartolini
+    linkedin: iliasbartolini
+    github: iliasbartolini
+    stackoverflow: 225358/ilias-bartolini
+    email: mailto:ilias.bartolini@gmail.com
+
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: aqua
+theme: jekyll-theme-hydejack
+accent_image: /assets/images/lencois-bg.jpg
 
-comments:
-  provider: "disqus"
-  disqus:
-    shortname: "iliasbartolini-name"
+layout: list
+plugins:
+  - jekyll-feed
+  - jekyll-paginate-v2
+  - jekyll-avatar
+  - jemoji
 
-search: true
+disqus: iliasbartolini-name
+google_analytics: UA-28181963-2
 
-author:
-  name: "Ilias Bartolini"
-  bio: "Soit gentil at tiens courage"
-  avatar: "/assets/images/ilias-bartolini-avatar.jpg"
-  twitter: "iliasbartolini"
-  facebook: "iliasbartolini"
-  lastfm: brain79
-  flickr: iliasbartolini
-  linkedin: iliasbartolini
-  github: iliasbartolini
-  keybase: "iliasbartolini"
-
-twitter:
-  username: "iliasbartolini"
-
-####Open Graph image
-#og_image: /assets/images/site-logo.png
-
-#teaser: /assets/images/header.jpg
-
-social:
-  name: Ilias Bartolini
-  links:
-    - "https://twitter.com/iliasbartolini"
-    - "https://facebook.com/iliasbartolini"
-    - "https://www.linkedin.com/in/iliasbartolini"
-
-analytics:
-  provider: "google-universal"
-  google:
-    tracking_id: "UA-28181963-2"
+pagination:
+  enabled: true
+  per_page: 5
+  title: ':title - page :num'
+  permalink: '/page/:num/'
+  sort_reverse: true
 
 defaults:
-  # _posts
   - scope:
-      path: ""
-      type: posts
+      path: _pages/about.md
     values:
-      layout: single
-      comments: true
-      read_time: true
-      author_profile: false
-      author: Ilias Bartolini
-      share: true
-      related: true
-  # _pages
+      menu: true
+      order: 1
   - scope:
-      path: ""
-      type: pages
+      path: _pages/contact.md
     values:
-      layout: single
-      comments: false
-      read_time: false
-      author_profile: false
-      author: Ilias Bartolini
+      menu: true
+      order: 2
+  - scope:
+      path: _pages/updates.md
+    values:
+      menu: true
+      order: 2
 
-category_archive:
-  type: jekyll-archives
-  path: /categories/
-tag_archive:
-  type: jekyll-archives
-  path: /tags/
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layouts:
-    category: archive-taxonomy
-    tag: archive-taxonomy
-  permalinks:
-    category: /categories/:name/
-    tag: /tags/:name/
+collections:
+  featured_tags:
+    permalink:         /tag/:name/
+    output:            true
+
+excerpt_separator: <!--more-->
 
 
-paginate: 5
-paginate_path: /page/:num/
+# defaults:
+#   # _posts
+#   - scope:
+#       path: ""
+#       type: posts
+#     values:
+#       layout: single
+#       comments: true
+#       read_time: true
+#       author_profile: false
+#       author: Ilias Bartolini
+#       share: true
+#       related: true
+#   # _pages
+#   - scope:
+#       path: ""
+#       type: pages
+#     values:
+#       layout: single
+#       comments: false
+#       read_time: false
+#       author_profile: false
+#       author: Ilias Bartolini
 
+# category_archive:
+#   type: jekyll-archives
+#   path: /categories/
+# tag_archive:
+#   type: jekyll-archives
+#   path: /tags/
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
+
+
+pagination:
+  enabled: true
+  per_page: 5
+  title: ':title - page :num'
+  permalink: '/page/:num/'
+  sort_reverse: true
+
+compress_html:
+  comments:            ['<!-- ', ' -->']
+  clippings:           all
+  endings:             all
+
+sass:
+  style:               compressed
+
+hydejack:
 
 include:
   - _pages

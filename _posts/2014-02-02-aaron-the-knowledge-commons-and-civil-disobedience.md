@@ -1,8 +1,10 @@
 ---
 title: "Aaron, the knowledge commons and civil disobedience"
 date: 2014-02-02 05:24:36 +0100
+layout: post
+comments: true
 categories:
-tags:
+tags: archive
 ---
 
 I wrote this short article as part of an assignment of an on-line course I've been recently attending.  

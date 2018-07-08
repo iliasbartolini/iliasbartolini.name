@@ -1,8 +1,10 @@
 ---
 title: "La lentezza"
 date: 2009-02-03 01:32:31 +0100
+layout: post
+comments: true
 categories:
-tags:
+tags: archive
 ---
 
 Le pagine del libro "La Lentezza" di [Kundera](http://en.wikipedia.org/wiki/Milan_Kundera) hanno accompagnato i momenti di "pausa" dello scorso weekend...   

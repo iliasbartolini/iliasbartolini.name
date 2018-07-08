@@ -1,8 +1,10 @@
 ---
 title: "...un po' di ordine"
 date: 2007-11-28 01:39:48 +0100
+layout: post
+comments: true
 categories:
-tags:
+tags: archive
 ---
 
 Lo scorso venerdì ho avuto il piacere di partecipare alla 4a edizione dell'Italian Agile Day... e direi soprattutto l'onore di tenere un intervento tra Tim Mackinnon e Francesco Cirillo (in pratica uno dei primi XP-er europei ed uno dei primi XP-er italiani :) )   

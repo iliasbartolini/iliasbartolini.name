@@ -1,8 +1,10 @@
 ---
 title: "\"Doing good is good\" or how I learned my grandfather maybe was an existentialist"
 date: 2014-10-26 23:43:24 +0100
+layout: post
+comments: true
 categories:
-tags:
+tags: archive
 ---
 
 I remember when I was a kid and knew I did something good I was always running to my grandfather to let him know about my novel achievements.  

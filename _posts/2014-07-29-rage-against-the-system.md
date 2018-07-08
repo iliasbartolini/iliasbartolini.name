@@ -1,8 +1,10 @@
 ---
 title: "Rage against the system"
 date: 2014-07-29 01:30:05 +0100
+layout: post
+comments: true
 categories:
-tags:
+tags: archive
 ---
 
 There are moments in the last couple of years that are recurring more frequently.

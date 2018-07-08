@@ -1,11 +1,13 @@
 ---
 title: "Come sopravvivere allo sviluppo"
 date: 2005-12-25 01:06:11 +0100
+layout: post
+comments: true
 categories: 
-tags: 
+tags: archive
 ---
 
-Vi lascio questo Natale con un messaggio che prende spunto e cita ampiamente un libro che ho avuto occasione di leggere. 
+Vi lascio questo Natale con un messaggio che prende spunto e cita ampiamente un libro che ho avuto occasione di leggere.
 
 _Come sopravvivere allo sviluppo_ è un libro di [Serge Latouche](http://en.wikipedia.org/wiki/Serge_Latouche) che mette in discussione il concetto di _sviluppo_ nelle società moderne.
 
@@ -38,5 +40,3 @@ Infine qualche link per approfondire:
 [video1](http://www.filosofiatv.org/video/LATOUCHE%20QT%2056k%20modem.mov)  
 [video2](http://www.filosofiatv.org/video/BONESIO%20QT%2056k%20modem.mov)  
 [video3](http://www.filosofiatv.org/video/serge_latouche_casacultura_lit.wmv)
-
-

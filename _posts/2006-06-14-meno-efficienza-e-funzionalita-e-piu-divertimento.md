@@ -1,8 +1,10 @@
 ---
 title: "Meno efficienza e funzionalità... e più divertimento?"
 date: 2006-06-14 23:57:59 +0100
+layout: post
+comments: true
 categories:
-tags:
+tags: archive
 ---
 
 Oggi per la prima volta ho letto nella descrizione di un software:

@@ -1,8 +1,10 @@
 ---
 title: "Alla portata di tutti"
 date: 2005-08-19 18:40:50 +0100
+layout: post
+comments: true
 categories:
-tags:
+tags: archive
 ---
 
 Qualche settimana Sir Tim Barners-Lee, inventore del web, ha rilasciato un'interessante [intervista](http://news.bbc.co.uk/1/hi/technology/4132752.stm) di cui vi riporto un pezzettino:

@@ -1,8 +1,10 @@
 ---
 title: "...ove il tempo mio primo e di me si spendea la miglior parte"
 date: 2007-07-12 00:47:25 +0100
+layout: post
+comments: true
 categories:
-tags:
+tags: archive
 ---
 
 Ci sono momenti in cui un ingegnere informatico prova delle soddifazioni...

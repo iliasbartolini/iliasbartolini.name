@@ -1,8 +1,10 @@
 ---
 title: "Vista da lassù \"la terra è azzurra\""
 date: 2007-10-05 23:39:45 +0100
+layout: post
+comments: true
 categories:
-tags:
+tags: archive
 ---
 
 Ieri, giovedì 4 ottobre, si celebrava il cinquantenario del lancio dello [Sputnik](http://en.wikipedia.org/wiki/Sputnik_1). Nel 1957 il primo satellite artificiale venne lanciato in orbita attorno alla terra e che da lassù ci inviava un monotono "_beep-beep_".  
