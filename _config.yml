@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+//blog.iliasbartolini.name# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -23,7 +23,7 @@ name: Ilias Bartolini
 email: ilias.bartolini@gmail.com
 copyright: '<style>.remove-external-link-icon:after { content: none !important; }</style>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br/><a class="remove-external-link-icon"  rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img style="display: inline; margin: 0.2rem; border-width:0" alt="Creative Commons Licence" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>'
 
-url: "http://iliasbartolini.name" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://blog.iliasbartolini.name" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "iliasbartolini/iliasbartolini.name"
 
 author:
@@ -31,7 +31,7 @@ author:
   email: ilias.bartolini@gmail.com
   picture: /assets/images/ilias-bartolini-avatar.jpg
   social:
-    rss: http://iliasbartolini.name/feed.xml
+    rss: http://blog.iliasbartolini.name/feed.xml
     twitter: iliasbartolini
     facebook: iliasbartolini
     lastfm: brain79
