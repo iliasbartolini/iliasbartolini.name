@@ -3,12 +3,13 @@ title: "Rispetto ed anticonformismo"
 date: 2005-09-10 00:14:35 +0100
 layout: post
 comments: true
-categories: 
+categories:
 tags: archive
 ---
 
 Mi sembra ci sia un problema di fondo nella nostra società, almeno quel poco che mi circonda.  
 Le persone piano piano stanno diventando più rispettose del prossimo, ma stanno diventando anche anticonformiste... quindi disprezzano (anche se in modo abbastanza pacato) la normalità, poi le regole, infine un po' anche l'autorità (ecco qui i "disobbedienti"... mancato prototipo dell'anticonformista rispettoso).
+<!--more-->
 
 IL CASO:  
 _Sono in una saletta d'attesa di una grossa multinazionale ...aspettiamo un colloquio di selezione (orami tutti lo chiamano di "selezione", non di "assunzione"... ci stanno privando del nostro punto di vista privilegiato). Ora ci sono altri 2 tizi; giacca e cravatta; che se ne stanno rigidi come dei carciofi... mah, in fondo se li conoscessi potrebbero essere anche simpatici.  

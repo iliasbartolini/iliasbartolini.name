@@ -9,6 +9,7 @@ tags: archive
 
 Ieri, giovedì 4 ottobre, si celebrava il cinquantenario del lancio dello [Sputnik](http://en.wikipedia.org/wiki/Sputnik_1). Nel 1957 il primo satellite artificiale venne lanciato in orbita attorno alla terra e che da lassù ci inviava un monotono "_beep-beep_".  
 Su giornali e riviste ed in particolare sul numero di questo mese di "Le Scienze" ci sono vari articoli che ricordano questi ultimi 50 anni di ricerche spaziali e su cosa ci dovremmo aspettare dai prossimi 50.
+<!--more-->
 
 Tra le cose curiose che ho letto c'è quella che fu la testimonianza di [Jurij Gagarin](http://en.wikipedia.org/wiki/Jurij_Gagarin), il primo uomo nello spazio, che al suo ritorno ci disse ciò che nessun altro uomo aveva mai potuto vedere. Vista da lassù...
 

@@ -10,6 +10,7 @@ tags: archive
 Ho da poco terminato di [leggere](https://www.goodreads.com/review/list/76116323?sort=date_read) un libro molto bello di [George Orwell](http://it.wikipedia.org/wiki/George_Orwell) intitolato [1984](http://it.wikipedia.org/wiki/1984_%28libro%29) ...lettura casualmente ispirata dal nome di un movimento riguardante i diritti della società dell'informazione a cui ho iniziato ad interessarmi [www.no1984.org](http://www.no1984.org/) ( guardate il [filmato](http://www.no1984.org/Trusted_Computing_movie)!).
 
 Dalle pagine di questo libro è tratto il seguente passo:
+<!--more-->
 
 > Winston si accostò alla finestra. Il sole doveva essere tramontato dietro le case... [...]  
 > La donna andava pesantemente avanti e indietro, cantando instancabile, mettendo e togliendosi mollette dalla bocca, e aggiungendo sempre più pannolini alla fune. [...] Nel frattempo Julia si era portata accanto a lui ed entrambi restarono a guardare affascinati quella tozza figura. Guardandola in quella sua caratteristica postura giunse a pensare che era bella. Mai prima d'allora gli era venuto in mente che il corpo di una donna di cinquant'anni gonfiato in maniera mostruosa dai parti, indurito e sformato dalla fatica fino a diventare grossa come una rapa troppo matura, potesse diventare _bello_.[...]  

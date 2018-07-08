@@ -3,13 +3,14 @@ title: "Le sette regole della motivazione"
 date: 2006-05-24 00:08:48 +0100
 layout: post
 comments: true
-categories: 
+categories:
 tags: archive
 ---
 
 Letto dal [blog di gianluca](http://aiellogianluca.wordpress.com/2006/05/23/sette-regole-per-motivarsi/) riportato da [http://www.motivation-tools.com/elements/seven\_rules.htm](http://www.motivation-tools.com/elements/seven_rules.htm)
 
 > 1. Set a major goal, but follow a path. The path has mini goals that go in many directions. When you learn to succeed at mini goals, you will be motivated to challenge grand goals.
+<!--more-->
 >
 > 2. Finish what you start. A half finished project is of no use to anyone. Quitting is a habit. Develop the habit of finishing self-motivated projects.
 >

@@ -9,6 +9,7 @@ tags: archive
 
 I wrote this short article as part of an assignment of an on-line course I've been recently attending.  
 I thought it's worth sharing since it reflects in a brief way some of the changes and discoveries of my last year of radicalization.  
+<!--more-->
 
 > Knowledge is getting more and more recognised as a new commons of the information age. Since information can be shared today at extremely small cost many advocate for the hypothesis that the traditional constraint of limited resources of "The tragedy of the commons" does not apply to knowledge.
 > <!--more-->

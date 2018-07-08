@@ -10,6 +10,7 @@ tags: archive
 ![metropolitana spaziale](/assets/images/posts_2006_underground_web.jpg)
 
 Ammetto di essere tra coloro che non sono in grado di programmare un vacanza con decente anticipo e si riducono all'ultimo momento (...non ho fissato ferie estive).
+<!--more-->
 
 Però possiamo restare comunque ottimisti ...l'immagine un po' surreale è tratta da un articolo recentemente pubblicato su _Le Scienze_ che parla sul come viaggiare nello spazio a basso costo :)
 

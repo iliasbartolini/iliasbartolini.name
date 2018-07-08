@@ -13,6 +13,7 @@ In the [part 1](/2012/01/30/a-feedback-based-review-why-part1/) and [2](/2012/01
 > (Richard P. Feynman)
 
 [![photo: Still reflection, by Ilias Bartolini](/assets/images/posts_2012_still_reflection.jpg)](http://www.flickr.com/photos/iliasbartolini/5247458347/lightbox/)
+<!--more-->
 
 Be honest with yourself and be ready to flip your mindset! Probably I've been lucky to watch this presentation of **Linda Rising on ["The power of Agile Mindset"](http://www.youtube.com/watch?v=W47rcJowx7k)**.  
  The important lesson I learned is to be ready to recognise that you were wrong and you have done some mistakes! Correcting our own mistakes is the greatest learning point of a self-review.

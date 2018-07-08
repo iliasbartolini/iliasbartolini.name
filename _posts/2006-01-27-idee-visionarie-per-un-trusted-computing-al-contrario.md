@@ -3,13 +3,14 @@ title: "Idee visionarie per un Trusted Computing al contrario..."
 date: 2006-01-27 02:16:13 +0100
 layout: post
 comments: true
-categories: 
+categories:
 tags: archive
 ---
 
 Sarà l'ora tarda ma mi sono messo a fare voli con le idee.
 
 Pensavo a modi per sfruttare un sistema hardaware di trust tipo il chip fritz in maniere opposte a quelle pensate dal [TCG](https://www.trustedcomputinggroup.org) (Trusted Computing Group).  
+<!--more-->
 Per chi non sapesse cos'è il TC ([Trusted Computing](http://en.wikipedia.org/wiki/Trusted_computing)), si tratta di una tecnologia sviluppata da un [largo gruppo](https://www.trustedcomputinggroup.org/about/members/) formato da moltissime multinazionali del software-hardware-entertainment che sotto la scusa di una maggiore sicurezza per gli utenti, di fatto ne limita le libertà e impedisce l'effettivo controllo di cosa succede nei nostri sistemi.  
 Trovate maggiori informazioni su questo tema sul sito [http://www.no1984.org/](http://www.no1984.org/)di cui sono collaboratore (scaricate il [filmato introduttivo](http://www.no1984.org/Trusted_Computing_movie) sul TC!)
 

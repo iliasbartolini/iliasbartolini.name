@@ -10,6 +10,7 @@ tags: archive
 Ci sono momenti in cui un ingegnere informatico prova delle soddifazioni...
 
 Come il giorno in cui prima di cambiare portatile ti accingi a fare backup ...ed è passato così tanto dall'ultimo giorno in cui hai usato microscottex windowz che ti eri persino completamente dimenticato di averne una partizione!!! :D
+<!--more-->
 
 Oppure come oggi che ho scoperto che qualcuno ha deciso di realizzare un remake del mitico "[Arcade Volley](http://en.wikipedia.org/wiki/Arcade_Volleyball)"... "av" per gli amici. Il gioco più stupido di fronte al quale un povero bambino poteva passare innumerevoli ore!!  
 [http://gav.sourceforge.net/](http://gav.sourceforge.net/)

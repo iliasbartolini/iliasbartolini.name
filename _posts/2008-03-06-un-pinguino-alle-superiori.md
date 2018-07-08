@@ -3,13 +3,14 @@ title: "Un pinguino alle superiori"
 date: 2008-03-06 02:09:27 +0100
 layout: post
 comments: true
-categories: 
+categories:
 tags: archive
 ---
 
  ![ERLUG logo](http://erlug.linux.it/scuole/logo_n_txt.png)
 
 Volevo sottolineare un articolo che è comparso in seconda pagina ieri su [Punto Informatico](http://punto-informatico.it)
+<!--more-->
 
 [http://punto-informatico.it/p.aspx?i=2211518](http://punto-informatico.it/p.aspx?i=2211518)
 

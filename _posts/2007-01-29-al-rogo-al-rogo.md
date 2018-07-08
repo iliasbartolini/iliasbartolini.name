@@ -15,6 +15,7 @@ La scorsa settimana il buon Mastella (...secondo me non lo fa apposta: "ci è", 
 Lo stesso Elio Toaff, rabbino, dichiara: "Negare l'Olocausto è negare l'evidenza, la legge sul negazionismo non la firmerei".
 
 ![Mastella Foto](/assets/images/posts_2007_al_rogo_mastella.jpg)
+<!--more-->
 
 Proteste da vari fronti... e dopo una veloce riscrittura e i saldi di gennaio siamo scesi a solo 3 anni per chi semplicemente "diffonde idee" antisemite o basate sulla superiorità e l'odio razziale.  
 Il consiglio dei ministri approva il nuovo testo all'unanimità ...un bel passo avanti, no!?

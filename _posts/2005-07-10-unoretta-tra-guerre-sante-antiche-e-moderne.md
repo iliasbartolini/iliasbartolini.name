@@ -3,7 +3,7 @@ title: "Un'oretta tra guerre sante antiche e moderne"
 date: 2005-07-10 18:40:02 +0100
 layout: post
 comments: true
-categories: 
+categories:
 tags: archive
 ---
 
@@ -11,6 +11,7 @@ tags: archive
 > Con lo sviluppo delle religioni rivelate, che proponendo modelli comportamentali universalistici vedono nel proselitismo una sicura via di salvezza per ogni uomo e ogni comunità, il richiamo morale si è fatto più facile da inoltrare. Se esiste una via per la salvezza (quella rivelata ad Abramo e poi a Mosè; da Gesù Cristo; a Maometto) la diffusione della via per la salvezza diventa un dovere."
 
 In seguito ai recenti [avvenimenti di Londra](http://en.wikipedia.org/wiki/London_bombing) mi stavo interrogando distrattamente sui tratti comuni tra le antiche Crociate e le Jihad così mi sono messo un po' alla ricerca (...benedetta sia Internet :) )
+<!--more-->
 
 Inizialmente mi sembravano palesi molti tratti comuni: entrambe hanno/stanno insanguinando il mondo, sfruttano le credenze religiose per fini (forse) 'temporali', [Papa Urbano II](http://it.wikipedia.org/wiki/Papa_Urbano_II) e [Khomeini](http://en.wikipedia.org/wiki/Ruhollah_Khomeini) ( questo parallelo è volutamente provocatorio :P ), ecc...
 

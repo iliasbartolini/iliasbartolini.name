@@ -3,11 +3,12 @@ title: "Gmail e le mailing list"
 date: 2006-12-16 12:32:28 +0100
 layout: post
 comments: true
-categories: 
+categories:
 tags: archive
 ---
 
 Nella la serie dei noiosi problemi informatici... finalmente ne posso aggiungere uno nuovo:
+<!--more-->
 
 Usando il mio nuovo account di posta GMail, quando invio una mail ad una mailing list, mi sono accorto di non ricevere i miei stessi messaggi. Google ha deciso di inserire il mio messaggio direttamente nella "posta archiviata"... comportamento doppiamente fastidioso se si usa l'accesso POP
 

@@ -10,11 +10,11 @@ tags: archive
 In the recent past we've been hit by the narrative: _"If you're not paying for it, you're product"_
 
 Unfortunately this seems to have become the de facto standard in the technology industry. Software as a service, cloud computing and few other paradigm shifts in the on-line business have enabled this distortion.
+<!--more-->
 
 Many on-line companies are today offering services for free for various reasons. It's a good way to attract customers to try their product and start billing later down the line a subset of their users. It's a good marketing strategy to be recognised as a good on-line citizen. In the worst scenario they are carefully listening to your data communications and generate revenue from the information treasure they've collected.
 
 I'm trying to forge and starting to believe in the emergence a different paradigm. I'm going to call it **_"Service as a gift"_**.
-<!--more-->
 
 What's the difference between "Service as a gift" and offering a service for free?
 

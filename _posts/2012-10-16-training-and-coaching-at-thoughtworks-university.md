@@ -12,6 +12,7 @@ tags: archive
 In the last five months my life went through a short but amazing detour in India.
 
 I had the beautiful opportunity to join for two consecutive terms our internal training program as trainer and coach: [ThoughtWorks University](https://www.thoughtworks.com/careers).  
+<!--more-->
 Take a group of 60 to 90 fresh graduates coming from five continents; put them together in and energetic and fun environment for 6 weeks; include indian food, lectures, practical training, games and delivering a real project supported by the guidance of 15 to 25 experienced ThoughtWorkers.
 
 Back in London I'm still recovering from this amazing cultural, learning and fun experience.  

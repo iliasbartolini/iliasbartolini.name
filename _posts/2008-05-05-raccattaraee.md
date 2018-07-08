@@ -16,6 +16,7 @@ Si chiama RaccattaRAEE dove l'acronimo RAEE significa:
 - Apparecchiature
 - Elettriche
 - Elettroniche
+<!--more-->
 
 Che fine fanno i vecchi computer ed accessori ancora funzionanti ma dismessi perché obsoleti o non più adatti allo scopo di chi li ha acquistati?  
 Possono ancora tornare utili ad altri scopi o possiamo trovare il modo di smaltirli in modo corretto?

@@ -3,7 +3,7 @@ title: "I pericoli del pensiero"
 date: 2005-06-18 10:18:11 +0100
 layout: post
 comments: true
-categories: 
+categories:
 tags: archive
 ---
 
@@ -11,6 +11,7 @@ Questo testo l'ho trovato in rete e su una rivista... non si sa chi sia l'autore
 
 > Tutto è cominciato così, in modo innocente.
 >
+<!--more-->
 > Mi sono messo a pensare durante le feste, così, qualche volta, giusto per divertimento. Però, inevitabilmente, un pensiero tira l'altro e così ben presto ho cominciato a pensare anche quando non ero in compagnia. Ho cominciato a pensare anche da solo, per rilassarmi, mi dicevo, ma sapevo che non era vero.  
 > Pensare per me è diventato sempre più importante e così ho finito con il pensare sempre. Persino sul lavoro. Mi rendevo conto che pensare e lavorare non andavano daccordo, ma non ne potevo fare a meno...
 > <!--more-->

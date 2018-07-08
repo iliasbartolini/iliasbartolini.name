@@ -15,9 +15,9 @@ Are moments of **rage**.
 <small>Image picture of <a href="http://www.privatephotoreview.com">PRIVATE Photo Review</a> cover of <a href="http://www.privatephotoreview.com/2008/09/42-social-issues/">#42</a> on Social Issues<br> Photo by John Lambrichts</small>
 
 I'm trying to write this down so that I can understand it better.
+<!--more-->
 
 The more I learn about injustices, the more is getting difficult to cope with their reality.
-<!--more-->
 
 We live in a extremely unjust system: capitalism, global poverty, consumerism, climate change, concentration of wealth and power, unequal distribution of basic social services healthcare and education, global surveillance, intolerance against minorities, gender injustice, racial prejudices, wars propagating across decades, and more, and more... a long list of interconnected social issues.
 

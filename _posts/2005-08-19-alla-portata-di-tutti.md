@@ -9,6 +9,7 @@ tags: archive
 
 Qualche settimana Sir Tim Barners-Lee, inventore del web, ha rilasciato un'interessante [intervista](http://news.bbc.co.uk/1/hi/technology/4132752.stm) di cui vi riporto un pezzettino:
 
+<!--more-->
 > I feel that the web should be something, which basically doesn't try to coerce people into putting particular sorts of things on it. [...] This is humanity which is communicating over the web, just as it's communicating over so many other different media. I think it's a more complicated question we have to; first of all, make it a universal medium, and secondly we have to work to make sure that that it supports the sort of society that we want to build on top of it.[...]
 >
 > It's a new medium, it's a universal medium and it's not itself a medium which inherently makes people do good things, or bad things. It allows people to do what they want to do more efficiently. It allows people to exist in an information space which doesn't know geographical boundaries. My hope is that it'll be very positive in bringing people together around the planet, because it'll make communication between different countries more possibile.

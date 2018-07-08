@@ -8,6 +8,7 @@ tags: archive
 ---
 
 I attended at [ESSAP](http://essap.dicom.uninsubria.it/) (European Summer School on Agile Programming) a few weeks ago in Varese.  
+<!--more-->
 This is my mind map of one of the most interesting courses: "[Retrospective Techniques](http://www.slideshare.net/lucagrulla/retrospectives-techniques/)" taken by [Luca Grulla](http://www.lucagrulla.it/)  
 
 [Agile Retrospectives Mind Map](/assets/content/mindmaps/Retrospectives.mm)  

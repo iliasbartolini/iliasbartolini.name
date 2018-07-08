@@ -10,6 +10,7 @@ tags: archive
 Avete presente la _"Croce Rossa"_? La più grande associazione umanitaria fondata nel 1862 per la cura e il soccorso dei feriti di guerra?  
 
 ![Simbolo Croce Rossa](/assets/images/posts_2007_01_red_cross.png)
+<!--more-->
 
 Quando avevo 18anni andai a visitare il museo di Ginevra ma non mi ricordavo affatto della diatriba sul simbolo della Croce Rossa... che ho scoperto sfogliando un libro che mi è stato regalato nelle appena trascorse festività.
 

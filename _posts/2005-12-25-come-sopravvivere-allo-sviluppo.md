@@ -3,7 +3,7 @@ title: "Come sopravvivere allo sviluppo"
 date: 2005-12-25 01:06:11 +0100
 layout: post
 comments: true
-categories: 
+categories:
 tags: archive
 ---
 
@@ -11,6 +11,7 @@ Vi lascio questo Natale con un messaggio che prende spunto e cita ampiamente un 
 
 _Come sopravvivere allo sviluppo_ è un libro di [Serge Latouche](http://en.wikipedia.org/wiki/Serge_Latouche) che mette in discussione il concetto di _sviluppo_ nelle società moderne.
 
+<!--more-->
 Le parole si radicano in una storia; solo legate sono legate a rappresentazioni che il più delle volte sfuggono alla coscienza dei locutori, ma che fanno presa sulle nostre emozioni. Ci sono parole dolci, parole che rinfrancano il cuore, parole che feriscono. Ci sono parole che mettono un popolo in fermento e sconvolgono il mondo. E poi ci sono parole veleno, parole che si infiltrano nel sangue come una droga, pervertono il deiderio ed oscurano il giudizio. _"[Sviluppo](http://en.wikipedia.org/wiki/Development)"_ è una di queste parole tossiche.  
 Il problema con il concetto di sviluppo è che si tratta di una parola _plastica_. Quello di sviluppo è un concetto trappola, spesso nemmeno presente nei linguaggi e nelle culture del mondo non occidentalizzato.
 

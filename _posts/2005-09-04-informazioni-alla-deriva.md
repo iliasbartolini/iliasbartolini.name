@@ -9,6 +9,7 @@ tags: archive
 
 > Google Announces Plan To Destroy All Information It Can't Index
 >
+<!--more-->
 > MOUNTAIN VIEW, CA  
 > Executives at Google, the rapidly growing online-search company that promises to "organize the world's information," announced Monday the latest step in their expansion effort: a far-reaching plan to destroy all the information it is unable to index.  
 > Google CEO Eric Schmidt speaks at Google's California headquarters (below).  

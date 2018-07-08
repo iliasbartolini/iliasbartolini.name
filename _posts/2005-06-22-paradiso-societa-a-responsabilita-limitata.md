@@ -9,7 +9,7 @@ tags: archive
 
 Oggi sono andato a pranzare con Matteo (sempre in ritardo) in centro e sotto al suo ufficio ho trovato questo buffo campanello.
 
-[Foto Campanello Heaven s.r.l.] <small>image mssing</small>
+[Foto Campanello Heaven s.r.l.] <small>image missing</small>
 
 "...mi spiace ma qui non ci occupiamo del vostro libero arbitrio"
 

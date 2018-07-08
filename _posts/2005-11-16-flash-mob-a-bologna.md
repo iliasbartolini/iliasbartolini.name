@@ -3,11 +3,12 @@ title: "Flash Mob a Bologna"
 date: 2005-11-16 22:02:52 +0100
 layout: post
 comments: true
-categories: 
+categories:
 tags: archive
 ---
 
 Notizia carina... riporto integralmente dal [blog di spiff](http://www.sofarsogeek.org/blog/2005/10/flash-mob-3/) un bell'articolo ...vi aspetto numerosi
+<!--more-->
 
 > Oggi ho visto una puntata di CSI in cui dei ragazzi facevano un Flash Mob, allora mi sono documentato. Ebbene ne stanno organizzando a Bologna il 19 Novembre 2005:
 >

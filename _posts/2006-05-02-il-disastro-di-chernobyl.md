@@ -3,13 +3,14 @@ title: "Il disastro di Chernobyl"
 date: 2006-05-02 22:31:10 +0100
 layout: post
 comments: true
-categories: 
+categories:
 tags: archive
 ---
 
 Il **26 aprile 1986** , poco più di 20 anni fa (mi sono preso qualche giorno di approfondimento prima di scrivervi), l'unita numero 4 della centale di **Chernobyl** provocò il disastro che viene da molti ricordato come una delle più grandi tragedie del secolo scorso.
 
 Gli operatori della centrale stavano eseguendo una simulazione per verificare il comportamento del reattore in caso di interruzione e poter stimare dopo quando tempo sarebbe entrato in funzione il generatore di gasolio di riserva.
+<!--more-->
 
 Una serie di errori umani durante le procedure (secondo un primo rapporto) o forse un problema tecnico figlio delle scelte progettuali errate del vecchio reattore (secondo rapporto) portarono la teperatura del nocciolo del reattore oltre 100 volte il valore d'esercizio. Una prima esplosione fu causata dalla sovrapressione dei canali di raffreddamento che distrussero il coperchio del reattore, al quale seguì una seconda esplosione che sparse una pioggia di detriti radioattivi. Subito dopo la grafite a contatto con l'aria diede origine ad un incendio che formò una nube con isotopi radioattivi di iodio e cesio che si diffuse su tutta l'europa dell'est.  
 A causa di ritardi ed inadeguatezza nelle misure di intervento, l'incendio fu domato solo 10 giorni dopo, da 600.000 valorosi "_liquidatori_" russi, per lo più militari.  

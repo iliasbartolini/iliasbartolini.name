@@ -13,6 +13,7 @@ In part [3](/2012/02/02/a-feedback-based-personal-review-you-part3/) I said that
  ...honestly, is not completely true: is also for the people around us :)  
 
  [![Choices, present - Ilias Bartolini](/assets/images/posts_2012_choices_present.jpg)](http://www.flickr.com/photos/iliasbartolini/6292626772/lightbox/)
+ <!--more-->
 
 One important lesson that I learned is to **share some of the results of this review with some of the people around me**.  
 If you start with the mindset that part of your review should be shared you may feel a bit uncomfortable and constraining your train of thoughts. But definitely sharing it is of great value.

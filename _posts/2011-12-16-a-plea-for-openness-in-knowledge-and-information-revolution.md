@@ -10,6 +10,7 @@ tags: archive
 About 12 month ago I moved to London. During this experience I've met lot of new people and I've been in touch with many new ideas and many new perspectives.  
 One of those interesting contacts has been with the [School of Open](http://p2pu.org/en/schools/school-of-open/) at Mozilla Foundation Conference that inspired in asking myself: _"What does Open mean?"_ in a broader sense.  
 I decided drop here what I humbly learned in this long journey started 10 years ago when I joined the communities of Free Software.
+<!--more-->
 
 [![photo: "OPEN" sign, by John Martinez Pavliga](/assets/images/posts_2011_open.jpg)](http://www.flickr.com/photos/virtualsugar/316200555/)  
 <small>CC-BY image courtesy of <a src="http://www.flickr.com/photos/virtualsugar/316200555/">John Martinez Pavliga</a></small>

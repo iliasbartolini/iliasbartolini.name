@@ -3,11 +3,12 @@ title: "Dietro l'arcobaleno"
 date: 2008-01-01 22:26:48 +0100
 layout: post
 comments: true
-categories: 
+categories:
 tags: archive
 ---
 
 Ci sono fenomeni che ci capita di osservare nella quotidianità che ci affascinano con stupore.
+<!--more-->
 
 Ho trovato questa bellissima lezione di [Martin Lewin](http://web.mit.edu/physics/facultyandstaff/faculty/walter_lewin.html) (ormai famoso insegnate di fisica del MIT) che spiega e mostra le leggi e i fenomeni che stanno dietro alla formazione di un [Arcobaleno](http://en.wikipedia.org/wiki/Rainbow)
 

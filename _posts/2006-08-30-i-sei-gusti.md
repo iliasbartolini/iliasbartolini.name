@@ -10,6 +10,7 @@ tags: archive
 L'altro giorno ero a cena dal ristorantino cinese sotto l'ufficio con [eagleone](http://eagleone.homelinux.org/blog/) quando gli è tornata in mente la storia secondo cui il sapore di "salsa di soia" sia il 6° gusto ...ma non riuscivamo a fare l'elenco degli altri 5, ce ne mancava uno!
 
 Stasera mi sono messo fare ricerche e quasi non ne sono venuto a capo...
+<!--more-->
 
 > Il sistema gustativo è capace di discriminare quattro tipologie di gusto: dolce, amaro, salato ed aspro (studi recenti identificano anche un quinto tipo, l'umami).
 

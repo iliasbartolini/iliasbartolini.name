@@ -8,6 +8,7 @@ tags: archive
 ---
 
 Le pagine del libro "La Lentezza" di [Kundera](http://en.wikipedia.org/wiki/Milan_Kundera) hanno accompagnato i momenti di "pausa" dello scorso weekend...   
+<!--more-->
 
 > Nella matematica esistenziale questa esperienza assume la forma di due equazioni elementari: il grado di lentezza è direttamente proporzionale all'intensità della memoria; il grado di velocità è direttamente proporzionale all'intensità dell'oblio   
 > (Milan Kundera)

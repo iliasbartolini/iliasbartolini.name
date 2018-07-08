@@ -8,6 +8,7 @@ tags: archive
 ---
 
 Ci sono tratti più profondi di una discussione che si ritrovano meglio con pochi segni e qualche scarabocchio.
+<!--more-->
 
 [![Schizzo di un dialogo](/assets/images/posts_2007_dialogo_t.jpg)](/assets/images/posts_2007_dialogo.jpg)  
 ...ricordo di una chiacchierata :)

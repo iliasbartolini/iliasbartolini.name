@@ -13,6 +13,7 @@ Oggi per la prima volta ho letto nella descrizione di un software:
 
 [http://www.hula-project.org/Hula\_Project](http://www.hula-project.org/Hula_Project)
 
+<!--more-->
 Dite che il futuro del software sarà guidato sempre più dalla facilità d'uso, da uno spot acuto e divertente, dal divertimento degli utenti e magari che durante l'utilizzo li faccia sentire felici e in pace con se stessi? :)  
 Più design e comunicazione e sempre meno sviluppatori software?
 

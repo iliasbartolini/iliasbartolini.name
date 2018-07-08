@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About Me
+title: About me
 permalink: /about/
 order: 2
 ---

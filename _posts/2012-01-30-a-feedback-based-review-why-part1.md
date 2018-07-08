@@ -12,6 +12,7 @@ tags: archive
 At the turn of this last new year I spent few days in my hometown with my family and closest friends in Italy.  
 During those days while reading some of my daily blog updates I stumbled upon Aimee Daniells' [2011 retrospective](http://sermoa.wordpress.com/2011/12/31/aimees-2011-retrospective-a-year-in-review/) so I also started writing some random personal notes on a [mind map](http://en.wikipedia.org/wiki/Mind_map) to start a **personal review**.  
 Some people call this just a set of "new year resolutions". But I found many other positive factors that made its result very effective!
+<!--more-->
 
 After one month the result and positive effects of this self-review are so great and caused me a sense of epiphany on many aspects of my last year. Despite is just a personal experience I hope that sharing it you can find similar benefits running your own review!
 

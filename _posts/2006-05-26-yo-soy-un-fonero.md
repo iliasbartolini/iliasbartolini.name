@@ -12,6 +12,7 @@ tags: archive
 **"Yo soy un fonero!"**...son passate 24 ore è già mi sto irritando...
 
 Mi arriva ieri un bel router Linksys WRT54GL acquistato perché [Fon](http://en.fon.com/) sembra un progetto davvero figo... la condivisione della connessione con la comunità... e poi quasi ti regalano il router!!
+<!--more-->
 
 ... mi avvento ad aprire il pacco del corriere... e mi ritrovo un'antenna rotta! staccata alla base :( **disperazione** :(  
 Mossa numero uno... proviamo a smontare il router per riattaccarla... e via il sigillo di garanzia... non riesco a collegare il filo di contatto dell'antenna ma alla fine il router funziona lo stesso ...penso chissenefrega (per ora).

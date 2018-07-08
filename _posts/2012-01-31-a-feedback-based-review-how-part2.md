@@ -10,6 +10,7 @@ tags: archive
 In the [part 1](/2012/01/30/a-feedback-based-review-why-part1/) of this series I explained **"why"** you should do a personal review and its benefits. In this post I will explain **"how"** I did it.
 
 [![photo: Kids artworks, by Ilias Bartolini](/assets/images/posts_2012_kids_artwork.jpg)](http://www.flickr.com/photos/iliasbartolini/6782883235/lightbox/)
+<!--more-->
 
 In Aimee Daniells' [2011 review](http://sermoa.wordpress.com/2011/12/31/aimees-2011-retrospective-a-year-in-review/) I liked the format inspired to agile's retrospectives:
 - set the stage,

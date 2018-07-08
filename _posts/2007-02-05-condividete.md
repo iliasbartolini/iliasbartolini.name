@@ -3,7 +3,7 @@ title: "Condividete!"
 date: 2007-02-05 21:44:26 +0100
 layout: post
 comments: true
-categories: 
+categories:
 tags: archive
 ---
 
@@ -12,6 +12,7 @@ Stavo leggendo un vecchio articolo quando ad un certo punto mi sono emozionato..
 > But looking back now, after 10 years of living online, what surprises me about the genesis of the Web is how much was missing from Vannevar Bush's vision, Nelson's docuverse, and my own expectations. We all missed the big story. The revolution launched by Netscape's IPO was only marginally about hypertext and human knowledge. **At its heart was a new kind of participation that has since developed into an emerging culture based on sharing**
 
 [http://www.wired.com/wired/archive/13.08/tech.html](http://www.wired.com/wired/archive/13.08/tech.html)
+<!--more-->
 
 ...per un attimo mi sono sentito piccolo motore pertecipe dei cambiamenti della storia. L'informazione è la cosa più preziosa che abbiamo, e la cultura della condivisione delle informazioni si sta davvero diffondendo!! ...o no!?
 

@@ -8,6 +8,7 @@ tags: archive
 ---
 
 I just finished to fill a couple of new Mind Maps...
+<!--more-->
 
 The first one is about the book "Technical Leadership" from G.M. Weinberg [/assets/content/mindmaps/TechnicalLeadership.mm](/assets/content/mindmaps/TechnicalLeadership.mm)  
 ...a good book, but not very good. I prefer by far the first book by Weinberg.

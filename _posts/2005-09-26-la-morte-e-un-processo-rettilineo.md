@@ -3,12 +3,12 @@ title: "La morte è un processo rettilineo"
 date: 2005-09-26 16:19:45 +0100
 layout: post
 comments: true
-categories: 
+categories:
 tags: archive
 ---
 
 "La morte è un processo rettilineo" è la frase su cui è incentrato uno dei libri di Daniel Pennac della serie che ha come protagonisti i componenti della tribù Malaussène e il suo capo famiglia [Benjamin](http://it.wikipedia.org/wiki/Benjamin_Malauss%C3%A8ne) ...professione capro espiatorio.
-
+<!--more-->
 La profesoressa Heber-Katz e il suo gruppo di ricerca del Wistar Institute centre sono riusciti a creare in laboratorio un [topolino in grado di rigenerare parti del proprio corpo](http://www.theaustralian.news.com.au/common/story_page/0,5744,16417002%255E30417,00.html): zampe, coda, orecchie e persino il cuore! ...primo tra i mammiferi ad avere questo privilegio.
 
 La morte è un processo rettilineo ...ma magari reversibile?

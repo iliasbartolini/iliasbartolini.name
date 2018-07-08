@@ -10,6 +10,7 @@ tags: archive
 [Path is too deep] <small>(image missing)</small>
 
 Il primo errore mi è capitato mentre stavo tentando l'ultimo backup dell'hard disk rovinato di un mio amico in seguito alla caduta di un poratile.  
+<!--more-->
 Che windows abbia capito che cosa conteneva il file **eva.wmv**? ...e non chiedetevi chi è eva... siete sulla strada sbagliata :)
 
 [Annulla o annulla?] <small>(image missing)</small>

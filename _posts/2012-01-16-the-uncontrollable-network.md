@@ -12,6 +12,7 @@ tags: archive
 These are the first words of a recent article ["Controllability of complex networks"](http://www.nature.com/nature/journal/v473/n7346/full/nature10011.html) published on Nature by Yang-Yu Liu, Jean-Jacques Slotine & Albert-Laszlo Barabasi.  
 
 [![photo: Entanglement, by Ilias Bartolini](/assets/images/posts_2012_wires_chaos.jpg)](http://www.flickr.com/photos/iliasbartolini/4543902755/lightbox)
+<!--more-->
 
 [Barabasi](http://en.wikipedia.org/wiki/Albert-L%C3%A1szl%C3%B3_Barab%C3%A1si) is the person that started few years ago a new branch of science "The Science of Networks" and published the popular book ["Linked"](http://www.anobii.com/books/00f726c975093ed800/) (which I strongly recommend!). What our metabolism, our social relationships and the Web have in common? How nodes in a Network grow? What are the rules that drives the creation of new links and how these impact the topology and distribution of a network? How do we control a Network?
 

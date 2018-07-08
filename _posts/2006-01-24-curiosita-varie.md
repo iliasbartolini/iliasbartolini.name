@@ -8,6 +8,7 @@ tags: archive
 ---
 
 Freddo glaciale avvolge Bologna... quindi finalmente una scusa per starmene in casa, riappendere le mie "mensole complemetari" al muro e terminare la sistemazione dei mobili della camera da letto. Alla faccia della moda wireless ho steso 60m di cavi tra rete, alimentazione e mi è scoppiato un attacco di l'allergia alla polvere.
+<!--more-->
 
 Prima di sistemare tutto ho dato un'occhiata alla voce [Feng Shui](http://en.wikipedia.org/wiki/Feng_Shui) di wikipedia (...l'enciclopedia libera che come al solito continua a stupirmi...) ed ho scoperto che persino alcuni dei grattaceli che ho visto quest'estate ad Hong Kong seguono quest'antica dottrina cinese :D
 

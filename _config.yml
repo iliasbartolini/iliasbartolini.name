@@ -1,4 +1,4 @@
-//blog.iliasbartolini.name# Welcome to Jekyll!
+# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -58,7 +58,7 @@ google_analytics: UA-28181963-2
 
 pagination:
   enabled: true
-  per_page: 5
+  per_page: 10
   title: ':title - page :num'
   permalink: '/page/:num/'
   sort_reverse: true
@@ -74,11 +74,6 @@ defaults:
     values:
       menu: true
       order: 2
-  - scope:
-      path: _pages/updates.md
-    values:
-      menu: true
-      order: 2
 
 collections:
   featured_tags:
@@ -86,56 +81,6 @@ collections:
     output:            true
 
 excerpt_separator: <!--more-->
-
-
-# defaults:
-#   # _posts
-#   - scope:
-#       path: ""
-#       type: posts
-#     values:
-#       layout: single
-#       comments: true
-#       read_time: true
-#       author_profile: false
-#       author: Ilias Bartolini
-#       share: true
-#       related: true
-#   # _pages
-#   - scope:
-#       path: ""
-#       type: pages
-#     values:
-#       layout: single
-#       comments: false
-#       read_time: false
-#       author_profile: false
-#       author: Ilias Bartolini
-
-# category_archive:
-#   type: jekyll-archives
-#   path: /categories/
-# tag_archive:
-#   type: jekyll-archives
-#   path: /tags/
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
-
-
-pagination:
-  enabled: true
-  per_page: 5
-  title: ':title - page :num'
-  permalink: '/page/:num/'
-  sort_reverse: true
 
 compress_html:
   comments:            ['<!-- ', ' -->']
@@ -153,14 +98,9 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  - _site/
-  - .idea/
+  - vendor
+  - deploy
   - README.md
-  - .git/
 
 compress_html:
   clippings: all
