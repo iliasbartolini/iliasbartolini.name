@@ -7,7 +7,7 @@ categories:
 tags: archive
 ---
 
-In the [part 1](/2012/01/30/a-feedback-based-review-why-part1/index.html) and [2](/2012/01/31/a-feedback-based-review-how-part2/index.html) of this series I explained "why" and "how" you should run a personal review and its benefits. Now let's see how **you** can use all the data that we have gathered!
+In the [part 1](/2012/01/30/a-feedback-based-review-why-part1.html) and [2](/2012/01/31/a-feedback-based-review-how-part2.html) of this series I explained "why" and "how" you should run a personal review and its benefits. Now let's see how **you** can use all the data that we have gathered!
 
 > _"The first principle is that you must not fool yourself and you are the easiest person to fool"_  
 > (Richard P. Feynman)
