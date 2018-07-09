@@ -45,4 +45,4 @@ I’d be curious to learn Arabic language, explore meditation, build resilient s
 I feel very limited in having an impact when working as an individual and I’m always looking for people to work with. Let’s join forces, help us organize and search how can we amplify our impact for social justice:  
 How can we change the world and help each other with limited structures of power?
 
-Check my [contact details](/contact/) and write me if you want to help in this.
+Check my [contact details](/contact/index.html) and write me if you want to help in this.
