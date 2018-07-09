@@ -23,7 +23,7 @@ name: Ilias Bartolini
 email: ilias.bartolini@gmail.com
 copyright: '<style>.remove-external-link-icon:after { content: none !important; }</style>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br/><a class="remove-external-link-icon"  rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img style="display: inline; margin: 0.2rem; border-width:0" alt="Creative Commons Licence" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>'
 
-url: "http://blog.iliasbartolini.name" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.iliasbartolini.name" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "iliasbartolini/iliasbartolini.name"
 
 author:
@@ -31,7 +31,7 @@ author:
   email: ilias.bartolini@gmail.com
   picture: /assets/images/ilias-bartolini-avatar.jpg
   social:
-    rss: http://blog.iliasbartolini.name/feed.xml
+    rss: https://blog.iliasbartolini.name/feed.xml
     twitter: iliasbartolini
     facebook: iliasbartolini
     lastfm: brain79
@@ -54,7 +54,7 @@ plugins:
   - jemoji
 
 disqus: iliasbartolini-name
-google_analytics: UA-28181963-2
+google_analytics: UA-28181963-1
 
 pagination:
   enabled: true
