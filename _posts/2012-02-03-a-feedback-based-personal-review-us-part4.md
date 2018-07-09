@@ -7,7 +7,7 @@ categories:
 tags: archive
 ---
 
-In the [part 1](/2012/01/30/a-feedback-based-review-why-part1.html) and [2](/2012/01/31/a-feedback-based-review-how-part2/index.html) of this series I explained "why" and "how" you should do a personal review.
+In the [part 1](/2012/01/30/a-feedback-based-review-why-part1.html) and [2](/2012/01/31/a-feedback-based-review-how-part2.html) of this series I explained "why" and "how" you should do a personal review.
 
 In part [3](/2012/02/02/a-feedback-based-personal-review-you-part3.html) I said that this review is for you and to reflect on yourself!  
  ...honestly, is not completely true: is also for the people around us :)  
