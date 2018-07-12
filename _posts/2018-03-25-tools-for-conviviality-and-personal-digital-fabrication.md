@@ -7,7 +7,7 @@ categories:
 tags: archive
 ---
 
-In the last few months I decided to take a break from the usual work routine to get time explore new ideas & topics and to meet grassroot communities in the area were I'm living.  
+In the last few months I decided to take a break from the usual work routine to get time explore new ideas and to meet grassroot no-profit communities in the area were I'm living.  
 
 One of these explorations allowed me to get to know better the makers movement, the network of FabLabs and Hackerspaces in Barcelona.  
 In this time I joined [FabAcademy](http://fabacademy.org/). FabAcademy is a distributed training program on digital fabrication started by prof. [Neil_Gershenfeld](https://en.wikipedia.org/wiki/Neil_Gershenfeld) inspired by his course "How to make (almost) anything" at MIT.  
