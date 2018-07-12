@@ -23,6 +23,7 @@ aws s3api put-bucket-policy --bucket blog.iliasbartolini.name --policy file://de
 
 aws s3 website s3://blog.iliasbartolini.name --index-document index.html
 
+# create separate IAM user to write only to this bucket
 # https://blog.iliasbartolini.name.s3-website.eu-central-1.amazonaws.com/
 
 # create certificate in US-Virginia zone
