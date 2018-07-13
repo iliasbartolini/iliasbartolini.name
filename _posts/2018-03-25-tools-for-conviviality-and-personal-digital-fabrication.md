@@ -1,6 +1,6 @@
 ---
 title: "Tools for conviviality and personal digital fabrication"
-date: 2018-03-25 00:59:39 +0100
+date: 2018-03-25 10:59:39 +0100
 layout: post
 comments: true
 categories:
