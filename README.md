@@ -5,6 +5,8 @@ Ilias Bartolini blog made with jekyll
 ### Run and build
 
 Prerequisites
+* ruby 2.4.x - https://www.ruby-lang.org/en/documentation/installation/
+* aws-cli - https://docs.aws.amazon.com/cli/latest/userguide/installing.html
 ~~~
 gem install bundler
 bundle install
@@ -23,10 +25,10 @@ aws s3api put-bucket-policy --bucket blog.iliasbartolini.name --policy file://de
 
 aws s3 website s3://blog.iliasbartolini.name --index-document index.html
 
-# create separate IAM user to write only to this bucket
+# create separate IAM user to write only to this bucket, policy file://deploy/circleci_policy.json
 # https://blog.iliasbartolini.name.s3-website.eu-central-1.amazonaws.com/
 
-# create certificate in US-Virginia zone
+# create domain certificate (US-Virginia zone)
 
 aws cloudfront create-distribution --distribution-config file://deploy/cloudfront_distribution_config.json
 
@@ -38,6 +40,10 @@ aws cloudfront create-distribution --distribution-config file://deploy/cloudfron
 
 
 ### Deploy
+
+Check `.circleci/config.yml`
+
+Manual steps:
 ~~~
 JEKYLL_ENV=production && bundle exec jekyll clean && bundle exec jekyll build
 aws s3 sync _site s3://blog.iliasbartolini.name/ --delete

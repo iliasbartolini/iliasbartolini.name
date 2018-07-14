@@ -29,7 +29,7 @@ I went back to read some passages of his book and I want to share them here:
 These words resonate sharply while we are today witnessing the predictable burst of the "Cambridge Analytica/Facebook" scandal. Today one of the biggest and most influential corporations in the world has contributed in undermining the already fragile democratic process of one of the most powerful state institutions in the world. But this is not news.
 
 Illich was critical as well of the institutionalization of specialized knowledge, the monopoly of its application and the dominant role of technocratic elites in industrial society. This process has brought today to the growth of knowledge silos inside of corporate walls and the datacenters of technology firms.
-He argued for the need to develop instruments for the reconquest of practical knowledge by the average citizen.
+He argued for the need to develop instruments for the reconquest of practical knowledge by all citizens.
 
 > ... the vision of new possibilities requires only the recognition that scientific discoveries can be useful in at least two opposite ways. The first leads to specialization of functions, institutionalization of values and centralization of power and turns people into the accessories of bureaucracies or machines. The second enlarges the range of each person’s competence, control, and initiative, limited only by other individuals’ claims to an equal range of power and freedom.
 
