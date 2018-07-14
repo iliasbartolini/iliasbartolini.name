@@ -63,7 +63,7 @@ Teaching each other should become a mean to defend against technocratic and inst
 Our educational networks should increase our opportunities to learn, share and care about each other.  
 
 Digital fabrication, free software, makers, hackerspaces and fablabs are sometimes divided by differences in approaches, identity and values. Still they are all part of a common movement that is trying building alternative dependencies from existing power structures and bringing power back to people in form of (digital) knowledge.  
-On the other side of the spectrum we are witnessing corporations and national state institutions amassing data, patents and creating regulations at service of oligopolies.  
+On the other side of the spectrum we are witnessing corporations and national state institutions amassing data, patents and creating regulations at service of oligopolies. We we build accountability structures for the institutions and try to bring ethical thinking and culture inside of their walls we have to keep thinking also at alternative models that can challenge them.  
 Creative capabilities still resides largely in individuals and in our interactions: From here we should start our journey.
 
 We are still away from achieving a sustainable and incisive change in our societies. The projection for scaling down digital fabrication from a small lab level to a personal level will still require years. Building circular economies and ecosystem is advocated in the eco-startups fantasies and detached from reality. The dependency to the corporate structures is only moving one level below the surface of the products we build and the machines we use. But here I still hold some hopes.  
