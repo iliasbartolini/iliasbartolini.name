@@ -55,7 +55,7 @@ The liberation is not only about inverting the dependency relationships with our
 
 By becoming builders and designers of our tools we expand the possibility to build and design our futures.  
 When we act as passive consumers we are surrendering our possibilities into the hands of other designers. That power is not always held responsibly and is limiting our choices. Not all products are designed to empower others, but to generate profits.  
-We need to be the ones designing, milling, cutting and molding our furniture instead of just queueing at IKEA stores. We need to be the ones creating the links, content and algorithms governing the Web instead of being the ones that are only clicking.
+We need to be the ones designing, milling, cutting and molding our furniture instead of just queueing at IKEA stores. We need to be the ones creating the links, content and algorithms governing the Web instead of being the ones that are only clicking algoritmically crafted ads.
 
 Illich critique extended to the education sector as well.  
 We need a digital fabrication movement that creates alternatives to reduce our dependency from the corporate complex and forges new ways to disseminate knowledge beyond institutionalized structures.  
