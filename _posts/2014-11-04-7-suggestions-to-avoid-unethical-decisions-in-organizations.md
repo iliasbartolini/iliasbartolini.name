@@ -28,7 +28,9 @@ You too, can potentially be the protagonist of an unethical decision being in to
 
 We make most of our decisions through heuristics and frames that are simplified models of reality which help us take decisions effectively focusing only on a part of the system.  
 Keeping [consequentialist ethics](http://plato.stanford.edu/entries/consequentialism/) in mind is very common for people to take decisions based only on the consequences that are immediately visible to us ignoring [unintended consequences](https://en.wikipedia.org/wiki/Unintended_consequences).  
-When we choose to board on a flight we do it based on the time it takes to reach our destination, not on the contributions to the climate change and the impact it could have on the agriculture of poor populations few decades from now. Here are some suggestions to avoid ethical blindness.
+When we choose to board on a flight we do it based on the time it takes to reach our destination, not on the contributions to the climate change and the impact it could have on the agriculture of poor farmers in the Global South few decades from now.
+
+Here are some suggestions to avoid ethical blindness.
 
 **1) Limit pressure and fear**  
 Pressure and fear are some of the most important factors that impact the immediate context. Pressure can come in many different forms and here are 4 common examples from social psychology.  
