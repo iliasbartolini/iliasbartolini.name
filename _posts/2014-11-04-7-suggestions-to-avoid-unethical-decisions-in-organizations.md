@@ -9,7 +9,7 @@ tags: archive
 
 In 1970 Ford released to the public a new car to compete in the market segment of the cheap small vehicles: the [Ford Pinto](http://en.wikipedia.org/wiki/Ford_Pinto#Fuel_tank_controversy).  
 During its design phase the engineers found a potential issue with the fuel tank placement which could increase the risk of fire after an accident. After a cost-benefit analysis they estimated that the cost of case settlement for these accidents ($200,000 per death, equivalent of $11 cost per car) was lower than adding a plastic shield behind or changing the design of the tank.   
-7 years later the National Highway Traffic Safety Administration (NHTSA) forced Ford to recall the vehicles. While controversy still exist today the incident caused, based on different sources, between 27 and hundreds of deaths and thousands of injuries attributed to the initial design decision and to the conscious decisions to not recall the vehicles that has been re-evaluated multiple times.
+7 years later the National Highway Traffic Safety Administration (NHTSA) forced Ford to recall the vehicles. Controversy still exist today, but based on different sources, the incidents caused between 27 and hundreds of deaths and around few thousands injuries. The cause is attributed both to the initial design and to the repeated decision to not recall the vehicles that presented the defect.
 
 How many unethical decisions, maybe with smaller impact, are taken daily that never reach public attention? What are the common factors in the the Enron and Lehman Brothers collapses? How can we avoid this to happen in our organizations?
 <!--more-->
