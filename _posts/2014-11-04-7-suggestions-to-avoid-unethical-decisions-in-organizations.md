@@ -42,48 +42,53 @@ _- Authority pressure:_
 _- Peer pressure:_  
  [Solomon Ash](https://en.wikipedia.org/wiki/Solomon_Asch) experiments showed us that people are strongly pushed to [conform with the rest of the group](https://en.wikipedia.org/wiki/Asch_conformity_experiments) they're part of. Learn to welcome and defend dissenting point of views, use facilitation techniques in group activities in order to minimize the group pressure, invite out-group members. This is also a reason why asking for consultants to visit your organization is sometimes an important factor in taking good decisions (…worst case you can always blame an external person :)).
 
-_- Role pressure:_   
-[Zimbardo](https://en.wikipedia.org/wiki/Philip_Zimbardo)'s "[Stanford prison experiment](https://en.wikipedia.org/wiki/Stanford_prison_experiment)" was probably the one that coined the idea of "power of situations" and covered many other aspects of social psychology. Each of the roles we play on a daily basis comes with expectations and a set of normative rules. As a project manager you might focus on the financial result of your project or worry about the velocity of your team. As an engineer you might focus on the effectiveness of your design. When "playing a role" you might lose sight of what are the holistic needs of a diverse group. Each of this expectations can push you away from "doing the right thing".
+_- Role expectation pressure:_   
+[Zimbardo](https://en.wikipedia.org/wiki/Philip_Zimbardo)'s controversil "[Stanford prison experiment](https://en.wikipedia.org/wiki/Stanford_prison_experiment)" was the one that coined the idea of "power of situations" and covered many other aspects of social psychology. Each of the roles we play on a daily basis comes with expectations and a set of normative rules. As a project manager you might focus on the financial result of your project or worry about the velocity of your team. As an engineer you might focus on the effectiveness of your design. When "playing a role" you might lose sight of what are the holistic needs of a diverse group. Each of these role expectations can push you away from "doing the right thing".
 
 _- Time pressure:_  
-[Darley](https://en.wikipedia.org/wiki/John_Darley) and [Batson](https://en.wikipedia.org/wiki/Daniel_Batson) in the [experiment of the Good Samaritan](http://faculty.babson.edu/krollag/org_site/soc_psych/darley_samarit.html) showed us that one of the most important factors that limits altruistic behaviour are not personal attitudes but simply time pressure. If you’re pushed across multiple deadlines your behaviour can change in ways that is overall less effective and act in ethically blind ways. Along all of these lines I like a metaphor on "pressure" that I learned few years ago. Your group pressure should always be careful regulated.  
- A pan should always boil a little bit so that chemical reactions that produce good food start to happen, but never up to the point that might cause it to burn or increase the risk for the pan to explode.
+[Darley](https://en.wikipedia.org/wiki/John_Darley) and [Batson](https://en.wikipedia.org/wiki/Daniel_Batson) in the [experiment of the Good Samaritan](http://faculty.babson.edu/krollag/org_site/soc_psych/darley_samarit.html) demonstrated that one of the most important factors that limits altruistic behaviour are not personal attitudes but simply time pressure. If you’re pushed across multiple deadlines your behaviour can change in ways that is overall less effective and adds a bias towards acting in ethically blind ways.  
+I often go back to a metaphor on "pressure" that I learned few years ago. Your group pressure should always be careful regulated.  
+A saucepan should always heated a little bit so that chemical reactions that produce good food start to happen, but never up to the point that might cause it to burn: damages might be irreversible.
 
 **2) Personal incentives and performance expectations**  
- The most common form of "role pressure" is the one driven by "personal incentives" and "performance expectations".   
- Big individual bonuses are considered some of the root causes of unethical decisions in the banking sector. Performance expectations are not only for individuals but can also be set at an organizational level and raise pressure in unrealistic ways.  
- Performance reviews if present should be designed in ways that "fear of unsuccess" is limited. The [Enron's scandal](https://en.wikipedia.org/wiki/Enron_scandal) is a case in which one of the contributing factors was a quasi-Darwinian culture for survival in which high performers were given high bonuses and a large percentage under-performers were immediately fired after each performance reviews.
+The most common form of "role pressure" is the one driven by "personal incentives" and "performance expectations".   
+Big individual bonuses are considered some of the root causes of unethical decisions in the banking sector. Performance expectations are not only for individuals but can also be set at an organizational level and raise pressure in unrealistic ways.  
+Performance reviews if present should be designed in ways that "fear of unsuccess" is limited. The [Enron's scandal](https://en.wikipedia.org/wiki/Enron_scandal) is a case in which one of the contributing factors was a quasi-Darwinian culture for survival in which high performers were given high bonuses and a large percentage under-performers were immediately fired after each performance review.
 
 **3) Avoid rigid routines**  
 Another important psychological frame are routines and habits. If your team meets daily with a specific intent in mind it might cause other important decisions that need to be taken together to be overlooked. Routines are also the ones that drives us towards inaction in the situations that do not fit in our patterns. "It has always been this way" is a common excuse to transform routines in rigid frames that we keep adopting. In the Ford Pinto case the callback coordinator was aware of the issue but kept adopting an inadequate standard procedure to evaluate if a callback was needed.  
- Routines are more dangerous in today’s world in which context rapidly changes.
+Routines are more dangerous in today’s world in which context rapidly changes.
 
-Routines together with role boundaries can become an extremely strong factor. It becomes easy for us to believe that something unethical "is not my responsibility" and blame others for it. "Not acting" could potentially be an important and very un-ethical decision.
+Routines together with role boundaries can become an extremely strong factor. It becomes easy for us to believe that something unethical "is not my responsibility" and blame others for it. In this context "not taking action" could still be an important and very un-ethical decision.  
+
+Routines should be broken by reminding ouselves to take pauses for reflection and acting on the outcomes of that.  
 
 **4) Work with a diverse group of people**  
- Frames are also cultural and based on knowledge and background of people. Start working with a culturally diverse and poly-skilled group. Foster diverse contribution and be open to listen to opinions of others especially when they are different from yours.   
- Often invite out-group point of views in your decisions.  
- It’s not a coincidence that was the NHTSA to force Ford to recall the vehicles and that people within the organization were unable to acknowledge the problem
+Frames are also cultural and based on knowledge, background and personal bias of individuals. Start working with a culturally diverse and poly-skilled group. Foster diverse contribution and be open to listen to opinions of others especially when they are different from yours.   
+Often invite out-group point of views in your decisions.  
+In the case of the Ford Pinto it’s not a coincidence that was the NHTSA, not Ford, to force the recall of vehicles and that people within the organization were unable to acknowledge the problem.
 
 **5) Check out the language used by your organization**  
- Language is a powerful tool for communicating ideas that influence how we behave and metaphors are a form of framing. Languages related to **Gaming** and **War** are two symptoms of subtle frames that push the decisions away from the real context. It's not very uncommon to "_make a bet in the financial game_", to make decisions that "_change the rules of the game_" or to "_head into the battle_" when a project starts.   
- You can find a lot of this language in Lawrence McDonald's book "[A Colossal Failure of Common Sense](http://www.amazon.com/Colossal-Failure-Common-Sense-Collapse/dp/0307588343)" that tells the story of Lehman Brothers from the point of view of its former vice president.
+Language is a powerful tool for communicating ideas that influence how we behave and metaphors are a form of framing. Languages related to **Gaming** and **War** are two symptoms of subtle frames that push the decisions away from the real context. It's not very uncommon to "_make a bet in the financial game_", to make decisions that "_change the rules of the game_" or to "_head into the battle_" when a project starts.   
+You can find a lot of this language in Lawrence McDonald's book "[A Colossal Failure of Common Sense](http://www.amazon.com/Colossal-Failure-Common-Sense-Collapse/dp/0307588343)" that tells the story of Lehman Brothers from the point of view of its former vice president.
 
-In today world the common mantra of "disruptive innovation" should carefully checked against the ethical rules.
+In today's world the hype of "disruptive innovation" should carefully checked against our ethical framworks.
 
-**6) Don't rely too much on code of conducts**  
+**6) Code of conducts are good, but not as much as we believe**  
 Code of conducts are often a good way to share and communicate the important values and principles we share as an organization. Unfortunately they are designed with "control" and "punishment" in mind and with a legalese perspective. This goes back to the false principle of "bad apples do bad things". While is recognised that feeling of "being watched" can remind us of being "honest" it can also cause "stress" of being watched, stifle any extrinsic motivation and control can be misused from authority for bad purposes.   
- Code of conducts should be a guide that could remind us our principles, but control and punishment should be limited. The only ethical justification for "control and punishment" is to influence and protect us against psychopaths… but we’ll see an interesting facts about psychopaths near the end of this article :)
+Code of conducts should be a guide that could remind us our principles, but control and punishment in forms of "carrot and stick" should be limited.
 
 **7) Start questioning institutional frames**  
 The most difficult frames to recognise are the one shared largely by entire institutions (big organizations, countries, cultures, educational systems). These frames [shift very slowly](https://en.wikipedia.org/wiki/Shifting_baseline), sometimes across decades and it’s more difficult to recognise that are influencing and changing ourselves. We take these for granted, it becomes more difficult to start questioning them and they slowly turn into dogmas and ideologies.  
-For example Milton Friedman in the ‘70 popularised in the whole business world the idea that "the social responsibility of business is to increase its profits" and the only moral responsibility of executives "is generally to make as much money as possible for their shareholder" justifying a belief system in which greed and egoism are positive. Today this system is still present in our culture. In the organization I work we put "attitude" and "integrity" as two of the fundamental attributes for our people. There have been in history exceptional people with extreme integrity that can inspire us. However we still need to remember the "power of situation" and that what "integrity" and "attitude" can do for us is limited when we’re immersed into a strong context.  
- While it’s true that psychopaths are statistically 4 times more present between the ranks of CEOs they’re on average only 1% of the general population.
+For example Milton Friedman in the ‘70 popularised in the whole business world the idea that "the social responsibility of business is to increase its profits" and the only moral responsibility of executives "is generally to make as much money as possible for their shareholder" justifying a belief system in which greed and egoism are positive and externalities are irrelevant. Today this system is still present in our culture.  
+In the organization I work we put "attitude" and "integrity" as two of the fundamental attributes for our people. 
+
+There have been in history exceptional people with extreme integrity that can inspire us. However we still need to remember the "power of situation" and that what "integrity" and "attitude" can do for us is limited when we’re immersed into a strong context.  
 
 Remember that most people that make "ethically bad" decisions do it because they happen to be in "ethically blind" situations or under pressure without being aware of it. They happen to be in a situation in which they’re not able to see the consequences of their actions, but not because they are inherently bad people.
 
 Be aware that the above suggestions might help you to avoid unethical contexts but are not a substitute for learning and understanding descriptive and normative morality.  
- The recommendation is to learn the fundamentals of ethics and keep in mind how you can avoid stepping into strong situations that can push you towards ethical blindness.
+The recommendation is to learn the fundamentals of ethics and keep in mind how you can avoid stepping into strong situations that can push you towards ethical blindness.
 
 _ **References:** _ The main inspiration for this article comes from the Coursera class "[Unethical Decision Making in Organizations](https://www.coursera.org/course/unethicaldecision)" by Guido Palazzo and Ulrich Hoffrage which I recommend Other resources that helped me learning in this area are:
 
