@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/iliasbartolini
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://blog.iliasbartolini.name
+  * I am iliasbartolini (https://keybase.io/iliasbartolini) on keybase.
+  * I have a public key ASAcEg0NGFdMisiDjeMyM7K5ykuTHgrzuFJFNoypA8sebQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01013d68d7b6802481fb18c7699dbe86de83342d84434dd997e2ccf51686a62706c90a",
+      "host": "keybase.io",
+      "kid": "01201c120d0d18574c8ac8838de33233b2b9ca4b931e0af3b85245368ca903cb1e6d0a",
+      "uid": "8b151f226bedddba26310d798e2eac19",
+      "username": "iliasbartolini"
+    },
+    "merkle_root": {
+      "ctime": 1553428844,
+      "hash": "ec7e5fb6c7706b4b64912e3328fb320f4130ac83097c86397fe40be6c281af786168c11d4db93c78eb42c05753e142fde3cc2c1c86aeb0e562220bdea46475a5",
+      "hash_meta": "147d0eba4b1062f2b88c7a96dd60ab1815ee1a5d2b702031947f5c0716f7d280",
+      "seqno": 5011492
+    },
+    "service": {
+      "entropy": "4A2z8Fc2qjuaHqH1BEAmvEi6",
+      "hostname": "blog.iliasbartolini.name",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.1.2"
+  },
+  "ctime": 1553428865,
+  "expire_in": 504576000,
+  "prev": "419b337531d73c97e169fb15995d5980127e6cd5ca672058ede460776c266b42",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgHBINDRhXTIrIg43jMjOyucpLkx4K87hSRTaMqQPLHm0Kp3BheWxvYWTESpcCD8QgQZszdTHXPJfhafsVmV1ZgBJ+bNXKZyBY7eRgd2wma0LEIJ0EWDKXZ6vxNqWfmsgMU1T711G2UXZNWx5kdWVNs+bIAgHCo3NpZ8RAHKFt8/fE0m5K1EYbX72VP7lChewmWKjy60Mmj6z9/42yakxwq8PmJcGEbZ1p3M/uMdqf+inEmnAw4KZ6gqKLCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIF+tEibP5U2UKSHU2tkNZUIY4pIhFoXtyXE0O/w1oK5Bo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/iliasbartolini
+
+==================================================================
