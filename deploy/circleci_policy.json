@@ -12,8 +12,12 @@
                 "s3:ListBucket"
             ],
             "Resource": [
+                "arn:aws:s3:::iliasbartolini.name",
+                "arn:aws:s3:::iliasbartolini.name/*",
                 "arn:aws:s3:::blog.iliasbartolini.name",
-                "arn:aws:s3:::blog.iliasbartolini.name/*"
+                "arn:aws:s3:::blog.iliasbartolini.name/*",
+                "arn:aws:s3:::privacy-seed.org",
+                "arn:aws:s3:::privacy-seed.org/*"
             ]
         }
     ]

@@ -1,0 +1,99 @@
+{
+    "Comment": "Root distribution based on cloudfront_distribution_config.json",
+    "CacheBehaviors": {
+        "Quantity": 0
+    },
+    "IsIPV6Enabled": true,
+    "Logging": {
+        "Bucket": "",
+        "Prefix": "",
+        "Enabled": false,
+        "IncludeCookies": false
+    },
+    "WebACLId": "",
+    "Origins": {
+        "Items": [
+            {
+                "S3OriginConfig": {
+                    "OriginAccessIdentity": ""
+                },
+                "OriginPath": "",
+                "CustomHeaders": {
+                    "Quantity": 0
+                },
+                "Id": "S3-iliasbartolini.name",
+                "DomainName": "iliasbartolini.name.s3.amazonaws.com"
+            }
+        ],
+        "Quantity": 1
+    },
+    "DefaultRootObject": "index.html",
+    "PriceClass": "PriceClass_All",
+    "Enabled": true,
+    "DefaultCacheBehavior": {
+        "TrustedSigners": {
+            "Enabled": false,
+            "Quantity": 0
+        },
+        "LambdaFunctionAssociations": {
+            "Quantity": 0
+        },
+        "TargetOriginId": "S3-iliasbartolini.name",
+        "ViewerProtocolPolicy": "allow-all",
+        "ForwardedValues": {
+            "Headers": {
+                "Quantity": 0
+            },
+            "Cookies": {
+                "Forward": "none"
+            },
+            "QueryStringCacheKeys": {
+                "Quantity": 0
+            },
+            "QueryString": false
+        },
+        "MaxTTL": 31536000,
+        "SmoothStreaming": false,
+        "DefaultTTL": 86400,
+        "AllowedMethods": {
+            "Items": [
+                "HEAD",
+                "GET"
+            ],
+            "CachedMethods": {
+                "Items": [
+                    "HEAD",
+                    "GET"
+                ],
+                "Quantity": 2
+            },
+            "Quantity": 2
+        },
+        "MinTTL": 0,
+        "Compress": true
+    },
+    "CallerReference": "iliasbartolini.name",
+    "ViewerCertificate": {
+        "SSLSupportMethod": "sni-only",
+        "ACMCertificateArn": "arn:aws:acm:us-east-1:841871494669:certificate/c535f479-9f46-4e8d-88c9-1978188622ed",
+        "MinimumProtocolVersion": "TLSv1.1_2016",
+        "Certificate": "arn:aws:acm:us-east-1:841871494669:certificate/c535f479-9f46-4e8d-88c9-1978188622ed",
+        "CertificateSource": "acm"
+    },
+    "CustomErrorResponses": {
+        "Quantity": 0
+    },
+    "HttpVersion": "http2",
+    "Restrictions": {
+        "GeoRestriction": {
+            "RestrictionType": "none",
+            "Quantity": 0
+        }
+    },
+    "Aliases": {
+        "Items": [
+            "iliasbartolini.name"
+        ],
+        "Quantity": 1
+    }
+}

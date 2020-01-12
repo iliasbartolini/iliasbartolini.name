@@ -19,25 +19,43 @@ bundle exec jekyll serve --livereload
 
 ### AWS setup (with external DNS provider / no Route53)
 ~~~
-aws s3 mb s3://blog.iliasbartolini.name
-
-aws s3api put-bucket-policy --bucket blog.iliasbartolini.name --policy file://deploy/bucket_policy.json
-
-aws s3 website s3://blog.iliasbartolini.name --index-document index.html
-
-# create separate IAM user to write only to this bucket, policy file://deploy/circleci_policy.json
-# https://blog.iliasbartolini.name.s3-website.eu-central-1.amazonaws.com/
+# create separate IAM user to write only to the web buckets, policy file://deploy/circleci_policy.json
 
 # create domain certificate (US-Virginia zone)
 
-aws cloudfront create-distribution --distribution-config file://deploy/cloudfront_distribution_config.json
+### Web bucket setup 
+
+aws s3 mb s3://blog.iliasbartolini.name
+
+aws s3api put-bucket-policy --bucket blog.iliasbartolini.name --policy file://deploy/blog.iliasbartolini.name/bucket_policy.json
+
+aws s3 website s3://blog.iliasbartolini.name --index-document index.html
+# https://blog.iliasbartolini.name.s3-website.eu-central-1.amazonaws.com/
+
+aws cloudfront create-distribution --distribution-config file://deploy/blog.iliasbartolini.name/cloudfront_distribution_config.json
 
 # d1xqdhzv9sggyu.cloudfront.net
-# aws cloudfront update-distribution --distribution-config file://deploy/cloudfront_distribution_config.json --id E3CYPIB8WEST3M
+# aws cloudfront update-distribution --distribution-config file://deploy/blog.iliasbartolini.name/cloudfront_distribution_config.json --id E3CYPIB8WEST3M
 
 # update DNS CNAMEs to AWS cloudfront url
-~~~
 
+### Repeat for iliasbartolini.name
+
+aws s3 mb s3://iliasbartolini.name
+
+aws s3api put-bucket-policy --bucket iliasbartolini.name --policy file://deploy/iliasbartolini.name/bucket_policy.json
+
+aws s3 website s3://iliasbartolini.name --index-document index.html
+# https://iliasbartolini.name.s3-website.eu-central-1.amazonaws.com/
+
+aws cloudfront create-distribution --distribution-config file://deploy/iliasbartolini.name/cloudfront_distribution_config.json
+
+# d16nc26s0agz3k.cloudfront.net
+# aws cloudfront update-distribution --distribution-config file://deploy/iliasbartolini.name/cloudfront_distribution_config.json --id E3CYPIB8WEST3M
+
+# update DNS CNAMEs to AWS cloudfront url
+
+~~~
 
 ### Deploy
 
