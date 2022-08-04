@@ -2,11 +2,11 @@
 #
 # Check https://circleci.com/docs/2.0/language-ruby/ for more details
 #
-version: 2
+version: 2.1
 jobs:
   build_deploy:
     docker:
-     - image: circleci/ruby:2.6.5-buster-node-browsers-legacy
+     - image: cimg/ruby:2.6.5-node
       # CircleCI maintains a library of pre-built images
       # documented at https://circleci.com/docs/2.0/circleci-images/
 
