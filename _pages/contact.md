@@ -8,7 +8,7 @@ order: 3
 
 **e-mail:** ilias.bartolini@gmail.com  
 PGP fingerprint:  
-`4C05 3C09 25C9 AAD8 CB9A 2DDF 5C4A ACA1 A291 09E0`  
+`EF12 40EB 6268 3840 020E 57BA C9EA 5104 2ACE B386`  
 Also available via [keybase.io/iliasbartolini](https://keybase.io/iliasbartolini)
 
 **Jabber/XMPP:** ilias.bartolini@jabber.ccc.de  
