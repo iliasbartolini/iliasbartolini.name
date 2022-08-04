@@ -1,8 +1,9 @@
 #!/bin/sh
 
 echo "Install AWS cli"
-sudo apt-get install python3-pip --yes
-pip3 install awscli --upgrade --user                                                           
+curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+unzip awscliv2.zip
+sudo ./aws/install                                                     
 
 echo "Sync new files"
 aws s3 sync _site s3://blog.iliasbartolini.name/ --delete
