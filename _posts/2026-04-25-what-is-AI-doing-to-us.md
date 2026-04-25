@@ -12,6 +12,7 @@ Thirty years ago, I was in my bedroom, eagerly reading Asimov's _Foundation_. "A
 But along the way, the conversation already stopped being only about gadgets and started being about something more pressing: who gets to hold power, and over whom. Which, I believe, is no longer just an issue for science fiction but also needs to be addressed.
 
 Because that's what this really is. We know that **AI** has become a broad umbrella term for generative methods and machine learning technology advancement. Strip away all the hype and the technical jargon, the LLMs, the ML, the models...  and you will find underneath the same story we have been telling ourselves for centuries. 
+<!--more-->
 
 Capital pools where it can. It was involved in exploration and the slave trade during the colonisation period. It was pooled in factories during the Industrial Revolution. It was pooled in oil fields in the last century. It is pooled in the offices of men who lobbied governments. AI is just the newest place for it to gather. It is clearly visible today in the massive investment bubble growing in this field. We already live in a period in which the largest companies in the market are from the tech sector, and their CEOs go for dinner with the current US president.
 
@@ -71,6 +72,7 @@ It is up to us to decide what we embrace, tolerate, or change.
 
 So, the real title of this post is not "What AI is doing to us" but _**"What we can do to AI?"**_. I still consider it an open-ended question and I invite you to join the coversation.
 
----
+ 
 
+ 
 *PS. Today is the day in which in my birth country, we celebrate the libreration from fascism. This post has been drafted and structured by hand, collecting my own thoughts, and edited with the help of "AI" tools. This also helped me to stop my years of stillness and quietness on these virtual pages.*
