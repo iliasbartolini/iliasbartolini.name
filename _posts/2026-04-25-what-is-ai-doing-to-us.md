@@ -16,7 +16,7 @@ Because that's what this really is. We know that **AI** has become a broad umbre
 
 Capital pools where it can. It was involved in exploration and the slave trade during the colonisation period. It was pooled in factories during the Industrial Revolution. It was pooled in oil fields in the last century. It is pooled in the offices of men who lobbied governments. AI is just the newest place for it to gather. It is clearly visible today in the massive investment bubble growing in this field. We already live in a period in which the largest companies in the market are from the tech sector, and their CEOs go for dinner with the current US president.
 
-## A tool with two edges
+## A tool with two edges... or maybe many edges
 
 Every transformative technology starts out looking "innocent". The steam engine was a way to pump water out of mines and power trains across the country. The internet was a research network for universities. Until a few years ago, "AI" was seen as "just" a feed recommendation tool or a clever autocomplete. But the speed at which it's reshaping things today might outrun our ability to effectively write the rules for it.
 
