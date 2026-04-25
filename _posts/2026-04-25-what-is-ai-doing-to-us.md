@@ -71,7 +71,7 @@ Everything is happening, while the people displaced are still told to "learn to 
 
 The honest truth is that "AI" could be used in either way. It could become an amplifier of voices and stories; it could be an enabler to more informed decisions. Or it could be yet another path for power to concentrate in the hands of the few, which seems still likely today.
 
-I hope it is an opportunity that forces us to discuss what we owe each other, in a world where machines can do more of the talking, writing and painting than before. Which version we end up living in is influenced by technology, but it won't be decided by technology alone: it will be decided by us.
+I hope it is an opportunity that forces us to discuss what we owe each other, in a world where machines can do more of the talking, writing and drawing than before. Which version we end up living in is influenced by technology, but it won't be decided by technology alone: it will be decided by us.
 
 The tool is also in our hands; the prompts are literally emerging from our fingertips. The question is whether we'll remember whose hands those are when we make choices, when we make demands, or if we use them to reach out to the person next to us. 
 It is up to us to decide what we embrace, tolerate, or change.
