@@ -53,7 +53,7 @@ In this context _"building AI"_ becomes a skills that will allow to re-shape the
 
 While fundation model training is out-of-reach for many, the opportunity to "fine tune" models, build applications "steering" and "customising" agents are the type of levers that are accessible and offer influence at systemic level.  
 
-I'm against the perspectives that advocate for the rejection of the AI related technologies. Recently, I've started adopting a **[harm-reduction](https://en.wikipedia.org/wiki/Harm_reduction)** stance toward "AI": Being honest about its costs, careful about where we let it in, and generous in teaching others to see it clearly and use it responsibly. It's what I believe is the only mature relationship to have with something powerful, addictive for the system we live in, but at the same time that is already here to stay and will create opportunities to some of its users and builders.
+I'm against the perspectives that advocate for the rejection of the AI related technologies. Recently, I've started adopting a **[harm-reduction](https://en.wikipedia.org/wiki/Harm_reduction)** stance toward "AI": Being honest about its costs, careful about where we let it in, and generous in teaching others to see it clearly and use it responsibly. It's what I believe is the only mature relationship to have with something powerful, addictive for the system we live in, but at the same time that is already here to stay and will create opportunities to some of its users and builders. Let's add a moral compass around those opportunities and make them accessible to those who are more in need.
 
 ## Possible directions
 
