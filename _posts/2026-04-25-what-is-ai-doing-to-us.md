@@ -76,7 +76,7 @@ I hope it is an opportunity that forces us to discuss what we owe each other, in
 The tool is also in our hands; the prompts are literally emerging from our fingertips. The question is whether we'll remember whose hands those are when we make choices, when we make demands, or if we use them to reach out to the person next to us. 
 It is up to us to decide what we embrace, tolerate, or change.
 
-So, the real title of this post is not "What AI is doing to us" but _**"What can we do to AI?"**_. I consider it an open-ended question and I invite you to join the coversation.
+So, the real title of this post is not "What AI is doing to us" but _**"What can we do to AI?"**_. I consider it an open-ended question and I invite you to join the conversation.
 
  
  
