@@ -65,7 +65,7 @@ Until further chip or model efficiency advancements, the compute infrastructure 
 
 And lastly, the question we keep avoiding answering: "What work is for?". If "AI" really does make knowledge workers radically more productive, we have another chance to decide whether that productivity becomes shorter weeks, stronger safety nets and more time for the things that make a life, or whether it becomes another short-term competitive advantage, a few quarters of concentrating record profits. 
 
-Everything is happening, while the people displaced are still told to "learn to code". We also have a chance to uplift back the value of non-collar workers if we act together. Universal basic income, reduced hours, and public dividends from publicly subsidised research shouldn't be fringe ideas anymore. They're overdue conversations.
+Everything is happening, while the people displaced are still told to "learn to code". We also have a chance to uplift back the value of non-collar workers if we act together. Universal basic income, reduced hours, and public dividends from publicly subsidised research shouldn't be fringe ideas anymore. They're overdue conversations that happen to be less fashionable than the AI topic.
 
 ## The final question
 
