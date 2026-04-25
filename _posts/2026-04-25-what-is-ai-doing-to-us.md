@@ -20,7 +20,7 @@ Capital pools where it can. It was involved in exploration and the slave trade d
 
 Every transformative technology starts out looking "innocent". The steam engine was a way to pump water out of mines and power trains across the country. The internet was a research network for universities. Until a few years ago, "AI" was seen as "just" a feed recommendation tool or a clever autocomplete. But the speed at which it's reshaping things today might outrun our ability to effectively write the rules for it.
 
-I try to avoid doomerism. But the consequences are not hypothetical. They are already here, just unevenly distributed, and to certain extent will be felt by some of us. Here are three of the many examples that I consider critical.
+I try to avoid doomerism. But the consequences are not hypothetical. They are already here, just unevenly distributed, and to certain extent will be felt by many of us. Here are three of the many examples that I consider critical.
 
 1) Consider the climate. We talk about "the cloud" as if it floats somewhere above us. In reality, it sits in data centres and warehouses the size of small towns, packed with humming machines that consume electricity and water at a scale most people would find difficult to picture. The [International Energy Agency](https://www.iea.org/reports/energy-and-ai/executive-summary) projects that global data-centre electricity consumption will more than double by 2030, reaching around 945 TWh with "AI" as the most significant driver. This is slightly more than Japan's total electricity consumption today. Every chatbot's pleasantry has a carbon footprint, while the world is scrambling to find more oil resources after a new conflict blocked the Persian gulf.
 
