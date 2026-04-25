@@ -1,6 +1,6 @@
 ---
 title: "What AI is doing to us"
-date: 2026-04-25 11:43:39 +0100
+date: 2026-04-25 09:43:39 +0100
 layout: post
 comments: true
 categories:
