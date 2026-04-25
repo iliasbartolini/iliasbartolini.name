@@ -26,7 +26,7 @@ I try to avoid doomerism. But the consequences are not hypothetical. They are al
 
 2) Consider work. For most of the last century, automation came for the hands: assembly lines, harvesters, telephone switchboards. The deal we told ourselves was that if you went to school and learned to think for a living, you'd be safe. For a couple of decades, we accelerated the trope "teach your kids to code" as a means of cultural and social emancipation (and in part it might have been) and to help building reasoning skills. That deal is now being quietly renegotiated. Writers, coders, paralegals, analysts, illustrators, designers are watching their bargaining power thin out in real time. This isn't only a labour story.
 
-3) And now consider the media, information and society. When a model is trained to be agreeable to improve adoption, it learns to flatter and "sycophancy", which can leads to serious mental health consequences. When it's trained on a world that's already unequal, it inherits those inequalities and serves them back to us at scale, dressed up as neutral output. A biased system, deployed to millions, can subtly transform a prejudice into infrastructure. Bru we can make a choice to deliberately teach it to produce output that counteracts these biases.
+3) And now consider the media, information and society. When a model is trained to be agreeable to improve adoption, it learns to flatter and "sycophancy", which can leads to serious mental health consequences. When it's trained on a world that's already unequal, it inherits those inequalities and serves them back to us at scale, dressed up as neutral output. A biased system, deployed to millions, can subtly transform a prejudice into infrastructure. But we can make a choice to deliberately teach it to produce output that counteracts these biases.
 
 There are plenty grim examples out there, but they're also many examples of hope and advancement in medicine, research, and even the simple day-to-day automation of tedious work that should not be understimated.
 
@@ -80,4 +80,4 @@ So, the real title of this post is not "What AI is doing to us" but _**"What can
 
  
  
-*PS. Today is the day in which in my birth country, we celebrate the libreration from fascism. This post has been drafted and structured by hand, collecting my own thoughts, and edited with the help of "AI" tools. This also helped me to stop my years of stillness and quietness on these virtual pages.*
+*PS. Today is the day in which in my birth country, we celebrate the libreration from fascism. This post has been drafted and structured by hand, collecting my own thoughts, and edited with the help of "AI" tools. All typos are mine. This also helped me to stop my years of stillness and quietness on these virtual pages.*
